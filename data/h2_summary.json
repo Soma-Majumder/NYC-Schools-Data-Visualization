@@ -1,0 +1,585 @@
+{
+  "overall": {
+    "Middle": {
+      "avg": 3.289544854823638,
+      "n_schools": 452,
+      "stdev": 0.5428825243559269
+    },
+    "High School": {
+      "avg": 3.235825932492843,
+      "n_schools": 557,
+      "stdev": 0.6225710581297029
+    }
+  },
+  "by_year": [
+    {
+      "year": "2015",
+      "school_type": "High School",
+      "avg": 3.2008903755679863,
+      "n_schools": 483
+    },
+    {
+      "year": "2015",
+      "school_type": "Middle",
+      "avg": 3.5485531338988054,
+      "n_schools": 398
+    },
+    {
+      "year": "2016",
+      "school_type": "High School",
+      "avg": 3.232621310266631,
+      "n_schools": 477
+    },
+    {
+      "year": "2016",
+      "school_type": "Middle",
+      "avg": 3.2999552575477042,
+      "n_schools": 380
+    },
+    {
+      "year": "2017",
+      "school_type": "High School",
+      "avg": 3.1749337677262823,
+      "n_schools": 478
+    },
+    {
+      "year": "2017",
+      "school_type": "Middle",
+      "avg": 3.283519548098839,
+      "n_schools": 376
+    },
+    {
+      "year": "2018",
+      "school_type": "High School",
+      "avg": 3.3642130906642334,
+      "n_schools": 481
+    },
+    {
+      "year": "2018",
+      "school_type": "Middle",
+      "avg": 3.320182015385086,
+      "n_schools": 370
+    },
+    {
+      "year": "2022",
+      "school_type": "High School",
+      "avg": 3.1738276556236467,
+      "n_schools": 500
+    },
+    {
+      "year": "2022",
+      "school_type": "Middle",
+      "avg": 3.0496207381664218,
+      "n_schools": 385
+    },
+    {
+      "year": "2023",
+      "school_type": "High School",
+      "avg": 3.3865988175675867,
+      "n_schools": 502
+    },
+    {
+      "year": "2023",
+      "school_type": "Middle",
+      "avg": 3.248590405231217,
+      "n_schools": 382
+    },
+    {
+      "year": "2024",
+      "school_type": "High School",
+      "avg": 3.3611298688280673,
+      "n_schools": 504
+    },
+    {
+      "year": "2024",
+      "school_type": "Middle",
+      "avg": 3.2678297908214833,
+      "n_schools": 382
+    }
+  ],
+  "by_metric": [
+    {
+      "metric_variable_name": "ccr_4yr_all",
+      "metric_display_name": "4-Year College and Career Readiness - All Students",
+      "school_type": "High School",
+      "avg": 3.24944578313253,
+      "n_schools": 415
+    },
+    {
+      "metric_variable_name": "ccr_6yr_all",
+      "metric_display_name": "6-Year College and Career Readiness - All Students",
+      "school_type": "High School",
+      "avg": 3.2503155339805825,
+      "n_schools": 412
+    },
+    {
+      "metric_variable_name": "chronic_absent_ems_all",
+      "metric_display_name": "Percentage of Students with >90% Attendance",
+      "school_type": "Middle",
+      "avg": 3.163820977834341,
+      "n_schools": 449
+    },
+    {
+      "metric_variable_name": "chronic_absent_hs_all",
+      "metric_display_name": "Percentage of Students with >90% Attendance",
+      "school_type": "High School",
+      "avg": 3.2449677363699103,
+      "n_schools": 552
+    },
+    {
+      "metric_variable_name": "credit_10_pct_yr1",
+      "metric_display_name": "10+ Credits in 1st Year - All Students",
+      "school_type": "High School",
+      "avg": 3.392613560090703,
+      "n_schools": 525
+    },
+    {
+      "metric_variable_name": "credit_10_pct_yr1_low_sc",
+      "metric_display_name": "10+ Credits in 1st Year - School's Lowest Third",
+      "school_type": "High School",
+      "avg": 3.296207783882784,
+      "n_schools": 520
+    },
+    {
+      "metric_variable_name": "credit_10_pct_yr2",
+      "metric_display_name": "10+ Credits in 2nd Year - All Students",
+      "school_type": "High School",
+      "avg": 3.3532691253084725,
+      "n_schools": 521
+    },
+    {
+      "metric_variable_name": "credit_10_pct_yr2_low_sc",
+      "metric_display_name": "10+ Credits in 2nd Year - School's Lowest Third",
+      "school_type": "High School",
+      "avg": 3.21626588081205,
+      "n_schools": 509
+    },
+    {
+      "metric_variable_name": "credit_10_pct_yr3",
+      "metric_display_name": "10+ Credits in 3rd Year - All Students",
+      "school_type": "High School",
+      "avg": 3.3326046232085065,
+      "n_schools": 515
+    },
+    {
+      "metric_variable_name": "credit_10_pct_yr3_low_sc",
+      "metric_display_name": "10+ Credits in 3rd Year - School's Lowest Third",
+      "school_type": "High School",
+      "avg": 3.246483266398929,
+      "n_schools": 498
+    },
+    {
+      "metric_variable_name": "cri6_persist_all",
+      "metric_display_name": "6-Year College Readiness Index with Persistence",
+      "school_type": "High School",
+      "avg": 3.3017250000000002,
+      "n_schools": 400
+    },
+    {
+      "metric_variable_name": "grad_pct_4_all",
+      "metric_display_name": "4-Year Graduation Rate - All Students",
+      "school_type": "High School",
+      "avg": 3.3377013192373726,
+      "n_schools": 527
+    },
+    {
+      "metric_variable_name": "grad_pct_4_bhl3_hs",
+      "metric_display_name": "4-Year Graduation Rate - Black or Hispanic Males in Lowest Third Citywide",
+      "school_type": "High School",
+      "avg": 3.2176197295147175,
+      "n_schools": 419
+    },
+    {
+      "metric_variable_name": "grad_pct_4_cap5yr",
+      "metric_display_name": "4-Year Graduation Rate - Special Class, Integrated Co-Teaching, or SETSS",
+      "school_type": "High School",
+      "avg": 3.3710467224546723,
+      "n_schools": 478
+    },
+    {
+      "metric_variable_name": "grad_pct_4_ell5yr",
+      "metric_display_name": "4-Year Graduation Rate - English Language Learners",
+      "school_type": "High School",
+      "avg": 3.1862683910773613,
+      "n_schools": 301
+    },
+    {
+      "metric_variable_name": "grad_pct_4_l3c_hs",
+      "metric_display_name": "4-Year Graduation Rate - Lowest Third Citywide",
+      "school_type": "High School",
+      "avg": 3.1800508849557523,
+      "n_schools": 452
+    },
+    {
+      "metric_variable_name": "grad_pct_6_all",
+      "metric_display_name": "6-Year Graduation Rate - All Students",
+      "school_type": "High School",
+      "avg": 3.318118723364832,
+      "n_schools": 514
+    },
+    {
+      "metric_variable_name": "hs_9gr_credits_all",
+      "metric_display_name": "9th Grade Adjusted Credit Accumulation of Former 8th Graders",
+      "school_type": "Middle",
+      "avg": 3.4091875205254514,
+      "n_schools": 435
+    },
+    {
+      "metric_variable_name": "lre_all",
+      "metric_display_name": "Movement of Students with IEPs to Less Restrictive Environments",
+      "school_type": "High School",
+      "avg": 3.158444748026715,
+      "n_schools": 549
+    },
+    {
+      "metric_variable_name": "lre_all",
+      "metric_display_name": "Movement of Students with IEPs to Less Restrictive Environments",
+      "school_type": "Middle",
+      "avg": 3.2494776350989834,
+      "n_schools": 445
+    },
+    {
+      "metric_variable_name": "mean_score_englcc",
+      "metric_display_name": "Average Regents Score - English",
+      "school_type": "High School",
+      "avg": 3.0194148402429364,
+      "n_schools": 541
+    },
+    {
+      "metric_variable_name": "mean_score_englnc",
+      "metric_display_name": "Average Regents Score - English (non-Common Core)",
+      "school_type": "High School",
+      "avg": 2.1143065693430656,
+      "n_schools": 137
+    },
+    {
+      "metric_variable_name": "mean_score_glob",
+      "metric_display_name": "Average Regents Score - Global History",
+      "school_type": "High School",
+      "avg": 3.084813839878581,
+      "n_schools": 502
+    },
+    {
+      "metric_variable_name": "mean_score_hist",
+      "metric_display_name": "Average Regents Score - US History",
+      "school_type": "High School",
+      "avg": 2.9421444476576055,
+      "n_schools": 494
+    },
+    {
+      "metric_variable_name": "mean_score_intacc",
+      "metric_display_name": "Average Regents Score - Algebra I",
+      "school_type": "High School",
+      "avg": 3.076688040080897,
+      "n_schools": 518
+    },
+    {
+      "metric_variable_name": "mean_score_intanc",
+      "metric_display_name": "Average Regents Score - Integrated Algebra (non-Common Core)",
+      "school_type": "High School",
+      "avg": 3.539263157894737,
+      "n_schools": 190
+    },
+    {
+      "metric_variable_name": "mean_score_livn",
+      "metric_display_name": "Average Regents Score - Living Environment/Biology",
+      "school_type": "High School",
+      "avg": 2.9777238377564466,
+      "n_schools": 506
+    },
+    {
+      "metric_variable_name": "met_reg_compl_all",
+      "metric_display_name": "Average Completion Rate for Remaining Regents",
+      "school_type": "High School",
+      "avg": 3.2714093103128192,
+      "n_schools": 513
+    },
+    {
+      "metric_variable_name": "nondropout_4_all",
+      "metric_display_name": "4-Year High School Persistence Rate",
+      "school_type": "High School",
+      "avg": 3.337958615704346,
+      "n_schools": 527
+    },
+    {
+      "metric_variable_name": "nondropout_6_all",
+      "metric_display_name": "6-Year High School Persistence Rate",
+      "school_type": "High School",
+      "avg": 3.3614647026125626,
+      "n_schools": 514
+    },
+    {
+      "metric_variable_name": "nyseslat_all",
+      "metric_display_name": "ELL Progress",
+      "school_type": "Middle",
+      "avg": 3.3329799943646097,
+      "n_schools": 338
+    },
+    {
+      "metric_variable_name": "pct_accelerated_all",
+      "metric_display_name": "Percent of 8th Graders Earning HS Credit",
+      "school_type": "Middle",
+      "avg": 3.1535757426823943,
+      "n_schools": 436
+    },
+    {
+      "metric_variable_name": "pct_cer_18mo_all",
+      "metric_display_name": "Postsecondary Enrollment Rate - 18 Months",
+      "school_type": "High School",
+      "avg": 3.240292986844543,
+      "n_schools": 514
+    },
+    {
+      "metric_variable_name": "pct_cer_6mo_all",
+      "metric_display_name": "Postsecondary Enrollment Rate - 6 Months",
+      "school_type": "High School",
+      "avg": 3.1938750229821657,
+      "n_schools": 518
+    },
+    {
+      "metric_variable_name": "pct_cer_6mo_l3c_hs",
+      "metric_display_name": "Postsecondary Enrollment Rate - 6 Months, Lowest Third Citywide",
+      "school_type": "High School",
+      "avg": 3.2447809315866083,
+      "n_schools": 458
+    },
+    {
+      "metric_variable_name": "pct_core_ela_all",
+      "metric_display_name": "ELA Core Course Pass Rate",
+      "school_type": "Middle",
+      "avg": 3.484316405816406,
+      "n_schools": 429
+    },
+    {
+      "metric_variable_name": "pct_core_mth_all",
+      "metric_display_name": "Math Core Course Pass Rate",
+      "school_type": "Middle",
+      "avg": 3.4926184371184372,
+      "n_schools": 429
+    },
+    {
+      "metric_variable_name": "pct_core_sci_all",
+      "metric_display_name": "Science Core Course Pass Rate",
+      "school_type": "Middle",
+      "avg": 3.4580800865800865,
+      "n_schools": 429
+    },
+    {
+      "metric_variable_name": "pct_core_soc_all",
+      "metric_display_name": "Social Studies Core Course Pass Rate",
+      "school_type": "Middle",
+      "avg": 3.51043006993007,
+      "n_schools": 429
+    },
+    {
+      "metric_variable_name": "pct_cpci_all",
+      "metric_display_name": "College and Career Preparatory Course Index",
+      "school_type": "High School",
+      "avg": 3.130091164222343,
+      "n_schools": 526
+    },
+    {
+      "metric_variable_name": "pct_cpci_l3c_hs",
+      "metric_display_name": "College and Career Preparatory Course Index, Lowest Third Citywide",
+      "school_type": "High School",
+      "avg": 2.915892673992674,
+      "n_schools": 455
+    },
+    {
+      "metric_variable_name": "pct_cri_4yr_all",
+      "metric_display_name": "4-Year College Readiness Index",
+      "school_type": "High School",
+      "avg": 3.6360919540229886,
+      "n_schools": 493
+    },
+    {
+      "metric_variable_name": "pct_cri_4yr_l3c_hs",
+      "metric_display_name": "4-Year College Readiness Index, Lowest Third Citywide",
+      "school_type": "High School",
+      "avg": 3.520900406504065,
+      "n_schools": 410
+    },
+    {
+      "metric_variable_name": "pct_cri_6yr_all",
+      "metric_display_name": "6-Year College Readiness Index",
+      "school_type": "High School",
+      "avg": 3.54360929557008,
+      "n_schools": 459
+    },
+    {
+      "metric_variable_name": "persist3_4yr_all",
+      "metric_display_name": "College Persistence",
+      "school_type": "High School",
+      "avg": 3.175496679946879,
+      "n_schools": 502
+    },
+    {
+      "metric_variable_name": "prof_pct_ela_all",
+      "metric_display_name": "Percentage of Students at Level 3 or 4, ELA",
+      "school_type": "Middle",
+      "avg": 3.3643376623376624,
+      "n_schools": 451
+    },
+    {
+      "metric_variable_name": "prof_pct_mth_all",
+      "metric_display_name": "Percentage of Students at Level 3 or 4, Math",
+      "school_type": "Middle",
+      "avg": 3.1695522120156268,
+      "n_schools": 451
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_all",
+      "metric_display_name": "Average Student Proficiency, ELA",
+      "school_type": "Middle",
+      "avg": 3.362548358145919,
+      "n_schools": 451
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_ctt",
+      "metric_display_name": "Average Student Proficiency, ELA - Integrated Co-Teaching",
+      "school_type": "Middle",
+      "avg": 3.375061365885846,
+      "n_schools": 433
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_ell",
+      "metric_display_name": "Average Student Proficiency, ELA - English Language Learners",
+      "school_type": "Middle",
+      "avg": 3.280358505254963,
+      "n_schools": 367
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_low_c35",
+      "metric_display_name": "Average Student Proficiency, ELA - Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 2.936308016877637,
+      "n_schools": 395
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_low_city",
+      "metric_display_name": "Average Student Proficiency, ELA, Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 3.84432261208577,
+      "n_schools": 342
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_low_s35",
+      "metric_display_name": "Average Student Proficiency, ELA - School's Lowest Third",
+      "school_type": "Middle",
+      "avg": 3.0610333333333335,
+      "n_schools": 400
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_low_sch",
+      "metric_display_name": "Average Student Proficiency, ELA, School's Lowest Third",
+      "school_type": "Middle",
+      "avg": 3.382687908496732,
+      "n_schools": 408
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_sc",
+      "metric_display_name": "Average Student Proficiency, ELA - Special Class",
+      "school_type": "Middle",
+      "avg": 3.271363387978142,
+      "n_schools": 366
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_setss",
+      "metric_display_name": "Average Student Proficiency, ELA - SETSS",
+      "school_type": "Middle",
+      "avg": 3.4670716619981325,
+      "n_schools": 306
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_ymocl3",
+      "metric_display_name": "Average Student Proficiency, ELA, Black or Hispanic Males in Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 3.7185804416403787,
+      "n_schools": 317
+    },
+    {
+      "metric_variable_name": "rating_mean_ela_ymocl35",
+      "metric_display_name": "Average Student Proficiency, ELA - Black or Hispanic Males in Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 3.0805677655677655,
+      "n_schools": 364
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_all",
+      "metric_display_name": "Average Student Proficiency, Math",
+      "school_type": "Middle",
+      "avg": 3.211267131242741,
+      "n_schools": 451
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_ctt",
+      "metric_display_name": "Average Student Proficiency, Math - Integrated Co-Teaching",
+      "school_type": "Middle",
+      "avg": 3.0572826420890937,
+      "n_schools": 434
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_ell",
+      "metric_display_name": "Average Student Proficiency, Math - English Language Learners",
+      "school_type": "Middle",
+      "avg": 3.112346714411358,
+      "n_schools": 379
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_low_c35",
+      "metric_display_name": "Average Student Proficiency, Math - Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 2.987062395309883,
+      "n_schools": 398
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_low_city",
+      "metric_display_name": "Average Student Proficiency, Math, Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 2.902243401759531,
+      "n_schools": 341
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_low_s35",
+      "metric_display_name": "Average Student Proficiency, Math - School's Lowest Third",
+      "school_type": "Middle",
+      "avg": 3.077819237147595,
+      "n_schools": 402
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_low_sch",
+      "metric_display_name": "Average Student Proficiency, Math, School's Lowest Third",
+      "school_type": "Middle",
+      "avg": 2.801858660130719,
+      "n_schools": 408
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_sc",
+      "metric_display_name": "Average Student Proficiency, Math - Special Class",
+      "school_type": "Middle",
+      "avg": 2.9028680718188915,
+      "n_schools": 366
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_setss",
+      "metric_display_name": "Average Student Proficiency, Math - SETSS",
+      "school_type": "Middle",
+      "avg": 3.228356286959228,
+      "n_schools": 306
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_ymocl3",
+      "metric_display_name": "Average Student Proficiency, Math, Black or Hispanic Males in Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 2.7579140127388535,
+      "n_schools": 314
+    },
+    {
+      "metric_variable_name": "rating_mean_mth_ymocl35",
+      "metric_display_name": "Average Student Proficiency, Math - Black or Hispanic Males in Lowest Third Citywide",
+      "school_type": "Middle",
+      "avg": 3.1036150234741786,
+      "n_schools": 355
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+  <title id="title">Average school quality score by NYC borough</title>
+  <desc id="desc">Bar chart showing average metric score for all schools: Queens 3.30, Manhattan 3.29, Staten Island 3.25, Brooklyn 3.19, and Bronx 3.09. Scores are on a 1 to 5 scale.</desc>
+  <rect width="1000" height="650" fill="#ffffff"/>
+  <text x="70" y="62" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#172033">Do schools in different boroughs have different quality scores?</text>
+  <text x="70" y="94" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#526075">Average metric score across all schools, grouped by borough (1–5 scale)</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526075" text-anchor="middle">
+    <text x="250" y="135">0</text><text x="380" y="135">1</text><text x="510" y="135">2</text><text x="640" y="135">3</text><text x="770" y="135">4</text><text x="900" y="135">5</text>
+  </g>
+  <g stroke="#d9e0ea" stroke-width="1">
+    <line x1="250" y1="150" x2="250" y2="520"/><line x1="380" y1="150" x2="380" y2="520"/><line x1="510" y1="150" x2="510" y2="520"/><line x1="640" y1="150" x2="640" y2="520"/><line x1="770" y1="150" x2="770" y2="520"/><line x1="900" y1="150" x2="900" y2="520"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#243047" text-anchor="end">
+    <text x="225" y="201">Queens</text><text x="225" y="271">Manhattan</text><text x="225" y="341">Staten Island</text><text x="225" y="411">Brooklyn</text><text x="225" y="481">Bronx</text>
+  </g>
+  <g fill="#e8eef6">
+    <rect x="250" y="174" width="650" height="38" rx="5"/><rect x="250" y="244" width="650" height="38" rx="5"/><rect x="250" y="314" width="650" height="38" rx="5"/><rect x="250" y="384" width="650" height="38" rx="5"/><rect x="250" y="454" width="650" height="38" rx="5"/>
+  </g>
+  <g fill="#247ba0">
+    <rect x="250" y="174" width="429" height="38" rx="5"/><rect x="250" y="244" width="428" height="38" rx="5"/><rect x="250" y="314" width="423" height="38" rx="5"/><rect x="250" y="384" width="415" height="38" rx="5"/><rect x="250" y="454" width="402" height="38" rx="5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#172033">
+    <text x="691" y="201">3.30</text><text x="690" y="271">3.29</text><text x="685" y="341">3.25</text><text x="677" y="411">3.19</text><text x="664" y="481">3.09</text>
+  </g>
+  <line x1="70" y1="548" x2="930" y2="548" stroke="#d9e0ea"/>
+  <text x="70" y="582" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526075">Method: All schools were grouped by borough; each school's reported metric scores were averaged, then compared by borough.</text>
+  <text x="70" y="610" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#526075">Source: NYC School Report Card dataset • Scores are descriptive averages, not causal estimates of borough effects.</text>
+</svg>

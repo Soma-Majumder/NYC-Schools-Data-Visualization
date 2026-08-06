@@ -1,0 +1,1013 @@
+dbn,school_name,borough,report_type,avg_metric_score,n_metric_rows
+24Q049,P.S. 049 Dorothy Bonawit Kole,Queens,EMS,3.204066666666667,150
+24Q093,I.S. 093 Ridgewood,Queens,EMS,3.243425414364641,181
+24Q239,P.S. 239,Queens,EMS,3.0905185185185187,135
+24Q330,Helen M. Marshall School,Queens,EMS,3.0043065693430657,137
+25Q194,J.H.S. 194 William Carr,Queens,EMS,3.467763157894737,152
+26Q266,P.S./I.S. 266,Queens,EMS,3.3464285714285715,140
+27Q043,P.S. 043,Queens,EMS,2.3649132947976876,173
+27Q210,J.H.S. 210 Elizabeth Blackwell,Queens,EMS,2.8941847826086957,184
+27Q475,Richmond Hill High School,Queens,HS,2.9724875621890545,201
+75Q009,P.S. 009,Queens,D75,3.4628571428571426,21
+75Q233,P.S. Q233,Queens,D75,2.684285714285714,21
+75Q255,P.S. Q255,Queens,D75,3.160952380952381,21
+75Q256,P.S. Q256,Queens,D75,3.236190476190476,21
+75Q277,The Riverview School,Queens,D75,3.5623809523809524,21
+75Q993,P.S. Q993,Queens,D75,2.9371428571428573,21
+75X010,P.S. X010,Bronx,D75,3.599047619047619,21
+75X811,P.S. X811,Bronx,D75,2.603809523809524,21
+09X339,I.S. 339,Bronx,EMS,3.338111111111111,180
+12X341,Accion Academy,Bronx,EMS,3.1679329608938547,179
+26Q415,Benjamin N. Cardozo High School,Queens,HS,3.1676,175
+27Q183,P.S. 183 Dr. Richard R. Green,Queens,EMS,2.617,170
+27Q232,P.S. 232 Lindenwood,Queens,EMS,3.3065625,160
+27Q333,Goldie Maple Academy,Queens,EMS,2.4205755395683455,139
+28Q358,M.S. 358,Queens,EMS,3.496148648648649,148
+29Q034,P.S. 034 John Harvard,Queens,EMS,3.0207438016528925,121
+30Q078,P.S./I.S. 78Q,Queens,EMS,3.6270714285714285,140
+30Q112,P.S. 112 Dutch Kills,Queens,EMS,2.862089552238806,134
+30Q235,Academy for New Americans,Queens,EMS,3.3156363636363637,110
+12X316,Kappa III,Bronx,EMS,3.369666666666667,180
+07X001,P.S. 001 Courtlandt School,Bronx,EMS,2.3711029411764706,136
+07X005,P.S. 5 Port Morris,Bronx,EMS,2.7969142857142857,175
+07X018,P.S. 018 John Peter Zenger,Bronx,EMS,2.5004761904761903,126
+07X025,P.S. 025 Bilingual School,Bronx,EMS,3.418880597014925,134
+07X029,P.S./M.S. 029 Melrose School,Bronx,EMS,2.4646153846153847,182
+07X030,P.S. 030 Wilton,Bronx,EMS,2.5455072463768116,138
+07X031,P.S./M.S. 031 The William Lloyd Garrison,Bronx,EMS,2.6093296089385474,179
+07X043,P.S. 043 Jonas Bronck,Bronx,EMS,3.1291338582677164,127
+07X049,P.S. 049 Willis Avenue,Bronx,EMS,3.7696503496503495,143
+07X065,P.S. 065 Mother Hale Academy,Bronx,EMS,3.0127906976744185,129
+07X379,Jill Chaifetz Transfer High School,Bronx,HST,2.631774193548387,186
+07X151,J.H.S. 151 Lou Gehrig,Bronx,EMS,2.604257425742574,101
+07X154,P.S. 154 Jonathan D. Hyatt,Bronx,EMS,3.47008547008547,117
+07X157,P.S. 157 Grove Hill,Bronx,EMS,2.8484210526315787,133
+07X161,P.S. 161 Juan Ponce De Leon School,Bronx,EMS,2.8464788732394366,142
+07X179,P.S. 179,Bronx,EMS,2.890090909090909,110
+07X221,South Bronx Preparatory: A College Board School,Bronx,EMS,3.742528735632184,174
+07X221,South Bronx Preparatory: A College Board School,Bronx,HS,4.0237823834196895,193
+07X223,The Laboratory School of Finance and Technology: X223,Bronx,EMS,3.5454761904761907,168
+07X223,The Laboratory School of Finance and Technology: X223,Bronx,HS,3.880232558139535,129
+07X224,P.S./I.S. 224,Bronx,EMS,2.4933519553072627,179
+07X259,"H.E.R.O. High (Health, Education, and Research Occupations High School)",Bronx,HS,2.7757988165680474,169
+07X277,P.S. 277,Bronx,EMS,2.9504166666666665,120
+07X296,South Bronx Academy for Applied Media,Bronx,EMS,2.898100558659218,179
+07X298,Academy of Public Relations,Bronx,EMS,2.8032386363636363,176
+07X334,International Community High School,Bronx,HS,3.440314465408805,159
+07X343,Academy of Applied Mathematics and Technology,Bronx,EMS,3.8800564971751412,177
+07X359,"Leaders of Excellence, Advocacy and Discovery",Bronx,EMS,4.352058823529412,68
+07X369,Young Leaders Elementary School,Bronx,EMS,2.8299159663865545,119
+07X381,Bronx Haven High School,Bronx,HST,2.9804519774011298,177
+07X427,Community School for Social Justice,Bronx,HS,2.9103726708074533,161
+07X456,Alfred E. Smith Campus YABC,Bronx,YABC,2.372872340425532,94
+07X473,Mott Haven Village Preparatory High School,Bronx,HS,2.32180412371134,194
+07X495,University Heights Secondary School,Bronx,HS,4.490902255639098,133
+07X500,Hostos-Lincoln Academy of Science,Bronx,EMS,2.942901234567901,162
+07X500,Hostos-Lincoln Academy of Science,Bronx,HS,3.4344198895027622,181
+08X123,J.H.S. 123 James M. Kieran,Bronx,EMS,2.784331550802139,187
+07X522,Bronx Design and Construction Academy,Bronx,HS,2.3785416666666666,192
+07X527,Bronx Leadership Academy II High School,Bronx,HS,3.2903000000000002,200
+07X548,Careers in Sports High School,Bronx,HS,2.312030456852792,197
+07X551,The Urban Assembly Bronx Academy of Letters,Bronx,EMS,2.534655172413793,174
+07X551,The Urban Assembly Bronx Academy of Letters,Bronx,HS,3.1274242424242424,198
+07X557,Mott Haven Community High School,Bronx,HST,3.809619565217391,184
+07X584,I.S. 584,Bronx,EMS,3.0223,100
+07X600,Alfred E. Smith Career and Technical Education High School,Bronx,HS,3.284141414141414,198
+07X670,Health Opportunities High School,Bronx,HS,2.5572820512820513,195
+08X014,P.S. X014 Senator John Calandra,Bronx,EMS,3.1521259842519687,127
+08X036,P.S. 036 Unionport,Bronx,EMS,3.257794117647059,136
+08X048,P.S. 048 Joseph R. Drake,Bronx,EMS,2.4873381294964028,139
+08X062,P.S. 062 Inocensio Casanova,Bronx,EMS,2.9290140845070423,142
+08X069,P.S. 069 Journey Prep School,Bronx,EMS,3.5125,128
+08X071,P.S. 071 Rose E. Scala,Bronx,EMS,3.2767213114754097,183
+08X072,P.S. 072 Dr. William Dorney,Bronx,EMS,3.1336363636363638,132
+08X075,P.S. 75 School of Research and Discovery,Bronx,EMS,2.9962857142857144,140
+08X093,P.S. 093 Albert G. Oliver,Bronx,EMS,2.5991379310344827,116
+08X100,P.S. 100 Isaac Clason,Bronx,EMS,2.6312403100775192,129
+08X101,M.S. X101 Edward R. Byrne,Bronx,EMS,3.552,155
+08X107,P.S. 107,Bronx,EMS,3.092627737226277,137
+08X119,The Dr. Emmett W. Bassett School,Bronx,EMS,2.9358139534883723,129
+08X130,P.S. 130 Abram Stevens Hewitt,Bronx,EMS,3.0013533834586466,133
+08X131,J.H.S. 131 Albert Einstein,Bronx,EMS,2.771129943502825,177
+08X138,P.S. 138 Samuel Randall,Bronx,EMS,2.681640625,128
+08X140,P.S. X140 The Eagle School,Bronx,EMS,2.6654014598540146,137
+08X146,P.S. 146 Edward Collins,Bronx,EMS,2.9836842105263157,133
+08X152,P.S. 152 Evergreen,Bronx,EMS,2.8027083333333334,144
+08X182,P.S. 182,Bronx,EMS,2.5564462809917354,121
+08X269,Bronx Studio School for Writers and Artists,Bronx,EMS,2.6492349726775957,183
+08X269,Bronx Studio School for Writers and Artists,Bronx,HS,2.8113917525773195,194
+08X282,Women's Academy of Excellence,Bronx,HS,2.6251612903225805,186
+08X293,Renaissance High School for Musical Theater and the Arts,Bronx,HS,3.17078125,192
+08X301,M.S. 301 Paul L. Dunbar,Bronx,EMS,2.2779234972677593,183
+08X302,M.S. 302 Luisa Dessus Cruz,Bronx,EMS,3.381803278688525,183
+08X304,P.S. 304 Early Childhood School,Bronx,EMS,3.3740186915887853,107
+08X312,Millennium Art Academy,Bronx,HS,3.0728717948717947,195
+08X320,Pelham Lab High School,Bronx,HS,2.436923076923077,169
+08X333,The Longwood Academy of Discovery,Bronx,EMS,2.5786524822695034,141
+08X337,The School for Inquiry and Social Justice,Bronx,EMS,3.6133522727272727,176
+08X348,Schuylerville Preparatory High School,Bronx,HS,2.42207100591716,169
+09X053,P.S. 053 Basheer Quisim,Bronx,EMS,3.2038194444444446,144
+08X349,Bronx River High School,Bronx,HS,3.4856140350877194,171
+08X367,"Archimedes Academy for Math, Science and Technology Applications",Bronx,EMS,2.711791907514451,173
+08X367,"Archimedes Academy for Math, Science and Technology Applications",Bronx,HS,2.460777202072539,193
+08X371,Urban Institute of Mathematics,Bronx,EMS,3.4020118343195267,169
+08X375,The Bronx Mathematics Preparatory School,Bronx,EMS,2.6905494505494505,182
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,Bronx,EMS,3.065058823529412,170
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,Bronx,HS,2.8029591836734693,196
+08X377,Bronx Community High School,Bronx,HST,3.120115606936416,173
+08X405,Herbert H. Lehman High School,Bronx,HS,2.2125125628140703,199
+08X408,Herbert H. Lehman Yabc,Bronx,YABC,3.085531914893617,94
+08X424,Bronx Academy for Multi-Media,Bronx,EMS,3.131584699453552,183
+08X432,Bronx Bridges High School,Bronx,HS,3.0461421319796953,197
+08X448,Soundview Academy for Culture and Scholarship,Bronx,EMS,2.995367231638418,177
+08X452,Gotham Collaborative High School,Bronx,HS,2.7806632653061225,196
+08X467,Mott Hall Community School,Bronx,EMS,2.6387222222222224,180
+08X507,Stevenson Yabc,Bronx,YABC,2.17375,88
+08X530,Longwood Preparatory Academy,Bronx,HS,3.032020202020202,198
+08X537,Bronx Arena High School,Bronx,HST,2.710542168674699,166
+08X558,Westchester Square Academy,Bronx,HS,2.992771739130435,184
+08X559,School for Tourism and Hospitality,Bronx,HS,2.1963392857142856,112
+08X561,Bronx Compass High School,Bronx,HS,2.4584239130434784,184
+08X562,Pugsley Preparatory Academy,Bronx,EMS,2.961878453038674,181
+08X583,P.S. 583,Bronx,EC,2.635,2
+09X004,P.S./M.S. 004 Crotona Park West,Bronx,EMS,3.4965555555555556,180
+09X011,P.S. 011 Highbridge,Bronx,EMS,2.6526811594202897,138
+09X022,J.H.S. 022 Jordan L. Mott,Bronx,EMS,2.840457142857143,175
+09X028,P.S. 028 Mount Hope,Bronx,EMS,2.9822535211267605,142
+09X035,P.S. 035 Franz Siegel,Bronx,EMS,2.4993478260869564,138
+09X042,P.S. 042 Claremont,Bronx,EMS,3.263,140
+09X055,P.S. 055 Benjamin Franklin,Bronx,EMS,2.4772093023255812,129
+09X058,P.S. 058,Bronx,EMS,2.757265625,128
+09X063,P.S. 063 Author's Academy,Bronx,EMS,3.26036231884058,138
+09X070,P.S. 070 Max Schoenfeld,Bronx,EMS,2.7084722222222224,144
+09X073,P.S. 073 Bronx,Bronx,EMS,2.4671875,128
+09X088,P.S. X088 - S. Silverstein Little Sparrow School,Bronx,EC,3.21625,8
+09X109,P.S. 109 Sedgwick,Bronx,EMS,2.4915555555555557,135
+09X110,P.S. 110 Theodore Schoenfeld,Bronx,EMS,2.7703030303030305,132
+09X114,P.S. X114 - Luis Llorens Torres Schools,Bronx,EMS,2.376642857142857,140
+09X117,I.S. 117 Joseph H. Wade,Bronx,EMS,2.8652747252747255,182
+09X126,P.S. 126 Dr Marjorie H Dunbar,Bronx,EMS,2.9786923076923078,130
+09X128,Mott Hall III,Bronx,EMS,3.5255151515151515,165
+09X132,P.S. 132 Garret A. Morgan,Bronx,EMS,2.716417910447761,134
+09X163,P.S. 163 Arthur A. Schomburg,Bronx,EMS,2.9773387096774195,124
+09X170,P.S. 170,Bronx,EC,2.9385714285714286,14
+09X199,P.S. 199X - The Shakespeare School,Bronx,EMS,2.894812030075188,133
+09X204,P.S. 204 Morris Heights,Bronx,EMS,4.16463768115942,138
+09X215,Kappa,Bronx,EMS,3.2697752808988763,178
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,Bronx,EMS,2.9604790419161677,167
+09X219,I.S. 219 New Venture School,Bronx,EMS,2.9153107344632767,177
+09X227,Bronx Collegiate Academy,Bronx,HS,3.0755837563451776,197
+09X229,I.S. 229 Roland Patterson,Bronx,EMS,2.880965909090909,176
+09X231,Eagle Academy for Young Men,Bronx,EMS,3.150709677419355,155
+09X231,Eagle Academy for Young Men,Bronx,HS,3.18140625,192
+09X232,I.S. 232,Bronx,EMS,3.2037158469945357,183
+09X236,P.S. 236 Langston Hughes,Bronx,EMS,3.0072972972972973,111
+09X241,"Urban Assembly School for Applied Math and Science, The",Bronx,EMS,2.9065384615384615,182
+09X241,"Urban Assembly School for Applied Math and Science, The",Bronx,HS,3.201904761904762,189
+09X250,Eximius College Preparatory Academy: A College Board School,Bronx,HS,3.6384895833333335,192
+09X252,Mott Hall Bronx High School,Bronx,HS,3.2885786802030457,197
+09X260,Bronx Center for Science and Mathematics,Bronx,HS,3.9360655737704917,183
+09X263,Validus Preparatory Academy,Bronx,HS,2.461269035532995,197
+09X274,The New American Academy at Roberto Clemente State Park,Bronx,EMS,2.3452100840336136,119
+09X294,The Walton Avenue School,Bronx,EMS,3.5393137254901963,102
+09X297,Morris Academy for Collaborative Studies,Bronx,HS,3.350251256281407,199
+09X303,I.S. X303 Leadership & Community Service,Bronx,EMS,3.66448275862069,174
+09X311,Lucero Elementary School,Bronx,EMS,2.9535416666666667,96
+09X313,I.S. 313 School of Leadership Development,Bronx,EMS,2.63698224852071,169
+09X323,Bronx Writing Academy,Bronx,EMS,3.093224043715847,183
+09X324,Bronx Early College Academy for Teaching & Learning,Bronx,EMS,2.764478527607362,163
+09X324,Bronx Early College Academy for Teaching & Learning,Bronx,HS,3.6734920634920636,189
+09X327,Comprehensive Model School Project M.S. 327,Bronx,EMS,3.6658192090395483,177
+09X327,Comprehensive Model School Project M.S. 327,Bronx,HS,3.1210734463276837,177
+09X328,New Millennium Bronx Academy of the Arts,Bronx,EMS,2.928820224719101,178
+09X329,DreamYard Preparatory School,Bronx,HS,3.1075634517766497,197
+09X350,New Directions Secondary School,Bronx,EMS,1.9056190476190475,105
+09X350,New Directions Secondary School,Bronx,HST,2.850978260869565,92
+09X361,The Highbridge Green School,Bronx,EMS,3.278820224719101,178
+09X365,Academy for Language and Technology,Bronx,HS,4.499274611398964,193
+09X403,Bronx International High School,Bronx,HS,3.6694805194805196,154
+09X404,School for Excellence,Bronx,HS,2.717058823529412,170
+09X412,Bronx High School of Business,Bronx,HS,2.5269035532994923,197
+09X413,Bronx High School for Medical Science,Bronx,EMS,3.494090909090909,154
+09X413,Bronx High School for Medical Science,Bronx,HS,3.1892857142857145,182
+09X443,The Family School,Bronx,EMS,3.6085925925925926,135
+09X449,Grant Avenue Elementary School,Bronx,EMS,3.0980882352941177,136
+09X454,Science and Technology Academy: A Mott Hall School,Bronx,EMS,4.2584153005464485,183
+09X457,Sheridan Academy for Young Leaders,Bronx,EMS,2.847669172932331,133
+09X505,"Bronx School for Law, Government and Justice",Bronx,EMS,3.4614367816091955,174
+09X505,"Bronx School for Law, Government and Justice",Bronx,HS,2.9682631578947367,190
+09X517,Frederick Douglass Academy III Secondary School,Bronx,HS,3.2315736040609138,197
+09X525,Bronx Leadership Academy High School,Bronx,HS,2.6688059701492537,201
+09X543,High School for Violin and Dance,Bronx,HS,2.6578534031413614,191
+10X086,P.S. 086 Kingsbridge Heights,Bronx,EMS,3.160805369127517,149
+09X555,Mount Eden Children's Academy,Bronx,EMS,3.217623762376238,101
+09X564,Claremont International HS,Bronx,HS,3.4192763157894737,152
+09X568,Young Women's Leadership School of the Bronx,Bronx,EMS,3.160902777777778,144
+09X568,Young Women's Leadership School of the Bronx,Bronx,HS,3.4673684210526314,114
+10X003,P.S. 3 Raul Julia Micro Society,Bronx,EMS,3.384831460674157,178
+10X007,Milton Fein School,Bronx,EMS,3.3582758620689654,116
+10X008,P.S. 008 Isaac Varian,Bronx,EMS,3.0119444444444445,144
+10X009,P.S. 9 Ryer Avenue Elementary School,Bronx,EMS,3.0224647887323943,142
+10X015,P.S. X015 Institute for Environmental Learning,Bronx,EMS,3.3366867469879518,166
+10X020,"PS/MS 20 P.O.George J. Werdann, III",Bronx,EMS,2.8203351955307263,179
+10X023,P.S. 023 The New Children's School,Bronx,EMS,2.561159420289855,138
+10X024,P.S. 024 Spuyten Duyvil,Bronx,EMS,3.783012048192771,83
+10X032,P.S. 032 Belmont,Bronx,EMS,2.728380281690141,142
+10X033,P.S. 033 Timothy Dwight,Bronx,EMS,2.9189583333333333,144
+10X037,P.S. X037 - Multiple Intelligence School,Bronx,EMS,3.0523728813559323,177
+10X045,Thomas C. Giordano Middle School 45,Bronx,EMS,2.897955801104972,181
+10X046,P.S. 046 Edgar Allan Poe,Bronx,EMS,2.406875,144
+10X051,The Bronx STEM and Arts Academy,Bronx,EMS,2.3466233766233766,77
+10X054,P.S./I.S. 54,Bronx,EMS,2.535267175572519,131
+10X056,P.S. 056 Norwood Heights,Bronx,EMS,3.0141666666666667,144
+10X059,P.S. 059 The Community School of Technology,Bronx,EMS,2.5415972222222223,144
+10X080,J.H.S. 080 The Mosholu Parkway,Bronx,EMS,3.3866120218579234,183
+10X081,P.S. 081 Robert J. Christen,Bronx,EMS,3.747317073170732,82
+10X085,P.S. 085 Great Expectations,Bronx,EMS,2.451736111111111,144
+10X091,P.S. 091 Bronx,Bronx,EMS,2.818985507246377,138
+10X094,P.S. 094 Kings College School,Bronx,EMS,2.2147058823529413,136
+10X095,P.S. 095 Sheila Mencher,Bronx,EMS,3.0229508196721313,183
+10X118,J.H.S. 118 William W. Niles,Bronx,EMS,2.732896174863388,183
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),Bronx,EMS,3.070759493670886,158
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),Bronx,HS,3.4833684210526314,190
+10X159,P.S. 159 Luis Munoz Marin Biling,Bronx,EMS,2.9645714285714284,105
+10X205,P.S. 205 Fiorello LaGuardia,Bronx,EMS,2.9577142857142857,140
+10X206,I.S. 206 Ann Mersereau,Bronx,EMS,3.0326285714285715,175
+10X207,P.S. 207,Bronx,EC,3.20375,8
+10X209,P.S. 209,Bronx,EC,2.995,14
+10X213,Bronx Engineering and Technology Academy,Bronx,HS,2.8924747474747474,198
+10X225,Theatre Arts Production Company School,Bronx,EMS,3.2322297297297298,148
+10X225,Theatre Arts Production Company School,Bronx,HS,2.7604188481675394,191
+10X226,P.S. 226,Bronx,EMS,3.2145669291338583,127
+10X228,Jonas Bronck Academy,Bronx,EMS,3.267639751552795,161
+10X237,"The Marie Curie High School for Medicine, Nursing, and Health Professions",Bronx,HS,2.5164583333333335,192
+10X243,West Bronx Academy for the Future,Bronx,EMS,2.5798907103825135,183
+10X243,West Bronx Academy for the Future,Bronx,HS,3.2245641025641025,195
+10X244,The New School for Leadership and Journalism,Bronx,EMS,3.8526519337016576,181
+10X246,P.S. 246 Poe Center,Bronx,EMS,2.380571428571429,140
+10X254,I.S. 254,Bronx,EMS,3.1488524590163935,183
+10X264,Bronx Academy for Software Engineering (BASE),Bronx,HS,2.9946987951807227,166
+10X268,Kingsbridge International High School,Bronx,HS,2.27752688172043,186
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",Bronx,EMS,3.452914285714286,175
+10X280,P.S./M.S. 280 Mosholu Parkway,Bronx,EMS,3.3560893854748604,179
+10X284,Bronx School of Law and Finance,Bronx,HS,2.899597989949749,199
+10X291,P.S. 291,Bronx,EMS,3.156044776119403,134
+10X306,P.S. 306,Bronx,EMS,2.643712121212121,132
+10X307,Luisa Pineiro Fuentes School of Science and Discovery,Bronx,EMS,2.6350980392156864,102
+10X308,Bronx Dance Academy School,Bronx,EMS,3.8544444444444443,171
+10X310,P.S. 310 Marble Hill,Bronx,EMS,2.868235294117647,136
+10X315,P.S. 315 Lab School,Bronx,EMS,2.9594545454545456,165
+10X319,Providing Urban Learners Success In Education High School,Bronx,HST,2.636949152542373,177
+10X331,The Bronx School of Young Leaders,Bronx,EMS,3.0053757225433526,173
+10X340,P.S. 340,Bronx,EMS,3.021897810218978,137
+10X342,International School for Liberal Arts,Bronx,EMS,3.69317880794702,151
+10X342,International School for Liberal Arts,Bronx,HS,2.682319587628866,194
+10X344,Ampark Neighborhood,Bronx,EMS,2.8945833333333333,96
+10X351,Bronx Collaborative High School,Bronx,HS,2.7960992907801416,141
+10X353,World View High School,Bronx,HS,4.11906432748538,171
+10X360,P.S. 360,Bronx,EMS,2.621328125,128
+10X363,Academy For Personal Leadership And Excellence,Bronx,EMS,3.1772677595628416,183
+10X368,In-Tech Academy (M.S. / High School 368),Bronx,EMS,2.8796045197740114,177
+10X368,In-Tech Academy (M.S. / High School 368),Bronx,HS,3.217857142857143,196
+10X374,Knowledge and Power Preparatory Academy International High School (Kappa),Bronx,HS,3.9226903553299493,197
+10X382,"Elementary School for Math, Science, and Technology",Bronx,EMS,2.3496296296296295,108
+10X386,School for Environmental Citizenship,Bronx,EMS,2.6253076923076923,130
+10X390,M.S. 390,Bronx,EMS,3.0833333333333335,177
+10X391,The Angelo Patri Middle School,Bronx,EMS,2.6923497267759564,183
+10X396,P.S. 396,Bronx,EMS,3.1168992248062017,129
+10X397,English Language Learners and International Support Preparatory Academy (ELLIS),Bronx,HST,3.6401785714285713,112
+10X433,High School for Teaching and the Professions,Bronx,HS,3.155707070707071,198
+10X434,Belmont Preparatory High School,Bronx,HS,3.578941798941799,189
+10X437,Fordham High School for the Arts,Bronx,HS,4.211720430107527,186
+10X438,Fordham Leadership Academy,Bronx,HS,3.440502512562814,199
+10X439,Bronx High School for Law and Community Service,Bronx,HS,3.860964467005076,197
+10X440,DeWitt Clinton High School,Bronx,HS,2.835323383084577,201
+10X442,"Celia Cruz Bronx High School of Music, The",Bronx,HS,3.9388172043010754,186
+10X445,The Bronx High School of Science,Bronx,HS,4.789,160
+10X447,Creston Academy,Bronx,EMS,3.705142857142857,175
+10X459,East Fordham Academy for the Arts,Bronx,EMS,2.5387962962962964,108
+10X477,Marble Hill High School for International Studies,Bronx,HS,4.452886597938145,194
+27Q487,John Adams Yabc,Queens,YABC,3.1030434782608696,92
+10X503,Walton Yabc,Bronx,YABC,3.120430107526882,93
+10X504,Kennedy Yabc,Bronx,YABC,2.2716129032258063,93
+10X524,Crotona International High School,Bronx,HS,3.111948051948052,154
+10X546,Bronx Theatre High School,Bronx,HS,2.883937823834197,193
+10X549,Discovery High School,Bronx,HS,4.031557788944724,199
+10X565,High School for Energy and Technology,Bronx,HS,3.2804918032786885,183
+10X668,Dewitt Clinton Campus YABC,Bronx,YABC,3.08955223880597,67
+10X696,High School of American Studies at Lehman College,Bronx,HS,4.80171974522293,157
+11X083,P.S. 083 Donald Hertz,Bronx,EMS,2.919125683060109,183
+11X016,P.S. 016 Wakefield,Bronx,EMS,2.9701785714285713,112
+11X019,P.S. 019 Judith K. Weiss,Bronx,EMS,3.292091503267974,153
+11X021,P.S. 021 Philip H. Sheridan,Bronx,EMS,2.6663247863247865,117
+11X041,P.S. 041 Gun Hill Road,Bronx,EMS,2.581374045801527,131
+11X068,P.S. 068 Bronx,Bronx,EMS,3.480683760683761,117
+11X076,P.S. 076 The Bennington School,Bronx,EMS,2.4052272727272728,132
+11X078,P.S. 078 Anne Hutchinson,Bronx,EMS,2.5444262295081965,122
+11X087,P.S. 087 Bronx,Bronx,EMS,2.7390909090909092,110
+11X089,P.S. 089 Bronx,Bronx,EMS,3.067142857142857,182
+11X096,P.S. 096 Richard Rodgers,Bronx,EMS,3.2120472440944883,127
+11X097,P.S. 097 Bronx,Bronx,EMS,2.8055084745762713,118
+11X103,P.S. 103 Hector Fontanez,Bronx,EMS,2.558333333333333,132
+11X105,P.S. 105 Sen Abraham Bernstein,Bronx,EMS,2.9695454545454547,132
+11X265,Bronx Lab School,Bronx,HS,2.9419875776397517,161
+11X106,P.S. 106 Parkchester,Bronx,EMS,2.787851851851852,135
+11X108,P.S. 108 Philip J. Abinanti,Bronx,EMS,3.4246296296296297,108
+11X111,P.S. 111 Seton Falls,Bronx,EMS,2.4323333333333332,120
+11X112,P.S. 112 Bronxwood,Bronx,EMS,2.4765853658536585,123
+11X121,P.S. 121 Throop,Bronx,EMS,2.199,120
+11X127,J.H.S. 127 The Castle Hill,Bronx,EMS,3.0123076923076924,182
+11X144,J.H.S. 144 Michelangelo,Bronx,EMS,3.403583815028902,173
+11X153,P.S. 153 Helen Keller,Bronx,EMS,3.002061855670103,97
+11X160,P.S. 160 Walt Disney,Bronx,EMS,2.900093457943925,107
+11X169,Baychester Academy,Bronx,EMS,3.711182795698925,93
+11X175,P.S. 175 City Island,Bronx,EMS,2.751287878787879,132
+11X178,P.S. 178 - Dr. Selman Waksman,Bronx,EMS,2.665982905982906,117
+11X180,M.S. 180 Dr. Daniel Hale Williams,Bronx,EMS,3.0544230769230767,156
+11X181,I.S. 181 Pablo Casals,Bronx,EMS,3.7882456140350875,171
+11X189,Cornerstone Academy for Social Action,Bronx,EMS,2.615675675675676,111
+11X194,P.S./M.S. 194,Bronx,EMS,2.8124293785310734,177
+11X249,Bronx Health Sciences High School,Bronx,HS,3.8062721893491123,169
+11X253,Bronx High School for Writing and Communication Arts,Bronx,HS,2.7316666666666665,168
+11X270,Academy for Scholarship and Entrepreneurship: A College Board School,Bronx,HS,3.0013020833333335,192
+11X275,High School of Computers and Technology,Bronx,HS,3.2389690721649487,194
+11X544,High School for Contemporary Arts,Bronx,HS,2.94510101010101,198
+11X287,North Bronx School of Empowerment,Bronx,EMS,2.339943820224719,178
+29Q295,P.S./I.S. 295,Queens,EMS,3.3009638554216867,166
+11X288,Collegiate Institute for Math and Science,Bronx,HS,3.34344262295082,183
+11X290,Bronx Academy of Health Careers,Bronx,HS,3.2281538461538464,195
+11X299,Astor Collegiate Academy,Bronx,HS,2.6852820512820514,195
+12X248,"Metropolitan High School, The",Bronx,HS,2.468762886597938,194
+11X326,Bronx Green Middle School,Bronx,EMS,3.025934065934066,182
+11X355,Bronx Alliance Middle School,Bronx,EMS,2.7963975155279504,161
+11X357,Young Voices Academy of the Bronx,Bronx,EMS,2.663114754098361,61
+11X370,Leaders of Tomorrow,Bronx,EMS,2.682290502793296,179
+11X417,C Columbus Hs Yabc,Bronx,YABC,3.386705882352941,85
+11X418,Bronx High School for the Visual Arts,Bronx,HS,2.7874871794871794,195
+11X455,Harry S Truman High School,Bronx,HS,3.0551776649746194,197
+11X462,Cornerstone Academy for Social Action Middle School (CASA),Bronx,EMS,2.8535616438356164,146
+11X468,Pelham Academy of Academics and Community Engagement,Bronx,EMS,3.116904761904762,168
+11X481,The STEAM Bridge School,Bronx,EC,3.006666666666667,6
+11X483,The Matilda Avenue School,Bronx,EC,1.982,5
+11X498,P.S./M.S. 11X498 - Van Nest Academy,Bronx,EMS,3.37527950310559,161
+11X508,Bronxdale High School,Bronx,HS,2.8354450261780104,191
+11X509,High School of Language and Innovation,Bronx,HS,3.4573262032085563,187
+11X513,New World High School,Bronx,HS,4.026269430051814,193
+11X514,The Bronxwood Preparatory Academy,Bronx,HS,3.0291709844559587,193
+11X529,One World Middle School at Edenwald,Bronx,EMS,3.5146341463414634,164
+11X532,Baychester Middle School,Bronx,EMS,2.742424242424242,165
+11X542,Pelham Preparatory Academy,Bronx,HS,3.541243523316062,193
+11X545,Bronx Aerospace High School,Bronx,HS,2.97875,192
+11X556,Bronx Park Middle School,Bronx,EMS,3.0060893854748603,179
+11X566,Pelham Gardens Middle School,Bronx,EMS,3.1604678362573098,171
+11X567,Linden Tree Elementary School,Bronx,EMS,2.504512195121951,82
+12X006,P.S. 006 West Farms,Bronx,EMS,2.4274999999999998,132
+12X044,P.S. 044 David C. Farragut,Bronx,EMS,2.976605504587156,109
+12X047,P.S. 047 John Randolph,Bronx,EMS,2.3938028169014083,142
+12X057,P.S. 057 Crescent,Bronx,EMS,2.435766423357664,137
+12X061,P.S. 061 Francisco Oller,Bronx,EMS,2.79,113
+12X066,P.S. 066 School of Higher Expectations,Bronx,EMS,3.0907971014492754,138
+12X067,P.S. 067 Mohegan School,Bronx,EMS,3.456218487394958,119
+12X098,J.H.S. 098 Herman Ridder,Bronx,EMS,3.0424285714285713,140
+12X129,M.S. 129 Academy for Independent Learning and Leadership,Bronx,EMS,3.885573770491803,183
+12X134,P.S. 134 George F. Bristow,Bronx,EMS,2.3341666666666665,132
+12X150,P.S. 150 Charles James Fox,Bronx,EMS,2.92875,136
+12X190,E.S.M.T- I.S. 190,Bronx,EMS,3.1466666666666665,174
+12X195,P.S. 195,Bronx,EMS,2.2761805555555554,144
+12X196,P.S. 196,Bronx,EMS,2.516642857142857,140
+12X211,P.S. 211,Bronx,EMS,3.0577941176470587,136
+12X212,P.S. 212,Bronx,EMS,2.4885869565217393,92
+12X214,P.S. 214,Bronx,EMS,2.476810810810811,185
+12X217,School of Performing Arts,Bronx,EMS,2.7596629213483146,178
+12X242,Mott Hall V,Bronx,EMS,3.2271584699453553,183
+12X242,Mott Hall V,Bronx,HS,3.637179487179487,195
+12X251,Explorations Academy H.S.,Bronx,HS,3.0428282828282827,198
+12X267,Bronx Latin,Bronx,EMS,3.268685714285714,175
+12X267,Bronx Latin,Bronx,HS,4.0496464646464645,198
+12X271,East Bronx Academy for the Future,Bronx,EMS,2.998087431693989,183
+12X271,East Bronx Academy for the Future,Bronx,HS,3.1943434343434345,198
+12X273,Frederick Douglass Academy V. Middle School,Bronx,EMS,2.9838418079096045,177
+12X286,Fannie Lou Hamer Middle School,Bronx,EMS,2.5481714285714285,175
+12X300,The School of Science and Applied Learning,Bronx,EMS,2.298888888888889,144
+12X314,Fairmont Neighborhood School,Bronx,EMS,2.3801834862385323,109
+12X318,"I.S. X318 Math, Science & Technology Through Arts",Bronx,EMS,2.6478571428571427,182
+30Q085,P.S. 085 Judge Charles Vallone,Queens,EMS,3.0953,100
+12X383,Emolior Academy,Bronx,EMS,3.10731843575419,179
+12X388,Pan American International High School at Monroe,Bronx,HS,4.257701863354037,161
+12X428,Learning To Work Yabc At Monroe Academy,Bronx,YABC,2.272043010752688,93
+12X446,Arturo A. Schomburg Satellite Academy Bronx,Bronx,HST,3.3156756756756756,148
+12X463,Urban Scholars Community School,Bronx,EMS,2.9956589147286823,129
+12X478,The Cinema School,Bronx,HS,3.21,179
+12X479,Bronx Career and College Preparatory High School,Bronx,HS,1.9958247422680413,194
+12X480,Bronx Regional High School,Bronx,HST,2.41812865497076,171
+12X511,Bronx Envision Academy,Bronx,HS,2.9094329896907216,194
+12X521,The Metropolitan Soundview High School,Bronx,HS,2.917113402061856,194
+12X531,Archer Elementary School,Bronx,EMS,3.0844444444444443,135
+12X536,P.S. 536,Bronx,EMS,2.638220338983051,118
+12X550,High School of World Cultures,Bronx,HS,2.790748663101604,187
+12X682,Fannie Lou Hamer Freedom High School,Bronx,HS,3.4919254658385093,161
+12X684,Wings Academy,Bronx,HS,2.4219170984455958,193
+12X691,Bronx Little School,Bronx,EMS,2.7489830508474578,118
+30Q212,P.S. 212,Queens,EMS,3.5092436974789916,119
+30Q234,P.S. 234,Queens,EMS,3.9724786324786328,117
+27Q314,Epic High School - South,Queens,HS,2.5186986301369862,146
+29Q268,P.S./I.S. 268,Queens,EMS,2.807894736842105,171
+24Q061,I.S. 061 Leonardo Da Vinci,Queens,EMS,3.314180790960452,177
+24Q119,P.S./I.S. 119 The Glendale,Queens,EMS,3.322867132867133,143
+25Q029,P.S. 029 Queens,Queens,EMS,3.1673684210526316,133
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,Queens,EMS,3.374245810055866,179
+08X125,J.H.S. 125 Henry Hudson,Bronx,EMS,3.0881012658227847,79
+24Q012,P.S. 012 James B. Colgate,Queens,EMS,3.3868548387096773,124
+24Q013,P.S. 013 Clement C. Moore,Queens,EMS,3.0982089552238805,134
+24Q014,P.S. 014 Fairview,Queens,EMS,2.4830882352941175,136
+24Q016,P.S. Q016 The Nancy DeBenedittis School,Queens,EMS,2.7209558823529414,136
+24Q019,P.S. 019 Marino Jeantet,Queens,EMS,3.1355333333333335,150
+24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Center,Queens,EC,3.235,14
+24Q058,P.S. 58 - The School of Heroes,Queens,EMS,3.2393798449612405,129
+24Q068,P.S. 068 Cambridge,Queens,EMS,3.278768115942029,138
+24Q071,P.S. 071 Forest,Queens,EMS,3.0074193548387096,124
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,Queens,EMS,3.7443243243243245,185
+24Q077,Joseph F. Quinn Intermediate School 77,Queens,EMS,2.9397814207650272,183
+24Q081,P.S. 81Q Jean Paul Richter,Queens,EMS,3.775333333333333,135
+24Q087,P.S./I.S. 087 Middle Village,Queens,EMS,3.3198773006134967,163
+24Q088,P.S. 088 Seneca,Queens,EMS,2.6202380952380953,126
+24Q089,P.S. 89Q: The Jose Peralta School of Dreamers,Queens,EMS,3.224113475177305,141
+24Q091,P.S. 091 Richard Arkwright,Queens,EMS,2.6432835820895524,134
+24Q102,P.S. 102 Bayview,Queens,EMS,3.4057142857142857,161
+24Q110,P.S. 110,Queens,EMS,3.1025,92
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,Queens,EMS,3.283605442176871,147
+24Q125,I.S. 125 Thom J. McCann Woodside,Queens,EMS,3.1085405405405404,185
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",Queens,EMS,3.3231297709923666,131
+24Q143,P.S. 143 Louis Armstrong,Queens,EMS,2.452720588235294,136
+24Q153,P.S. 153 Maspeth Elem,Queens,EMS,2.919136690647482,139
+24Q199,P.S. 199 Maurice A. Fitzgerald,Queens,EMS,3.008695652173913,138
+24Q211,Elm Tree Elementary School,Queens,EMS,3.1368,75
+24Q229,P.S. 229 Emanuel Kaplan,Queens,EMS,3.094488188976378,127
+24Q236,International High School for Health Sciences,Queens,HS,2.988294573643411,129
+24Q264,Academy of Finance and Enterprise,Queens,HS,3.987528735632184,174
+24Q267,High School of Applied Communication,Queens,HS,3.236875,192
+24Q290,A.C.E. Academy for Scholars at the Geraldine Ferraro Campus,Queens,EMS,3.281595744680851,94
+24Q293,Civic Leadership Academy,Queens,HS,3.8303763440860217,186
+24Q296,Pan American International High School,Queens,HS,4.130123456790123,162
+24Q299,Bard High School Early College Queens,Queens,HS,4.384478527607362,163
+24Q305,Learners and Leaders,Queens,EMS,3.2875454545454548,110
+24Q307,Pioneer Academy,Queens,EMS,3.2836764705882353,136
+24Q311,Corona Arts & Sciences Academy,Queens,EMS,2.830919540229885,174
+24Q455,Newtown High School,Queens,HS,2.9961194029850744,201
+24Q457,H.S. Arts & Business Yabc,Queens,YABC,2.934301075268817,93
+24Q485,Grover Cleveland High School,Queens,HS,2.500049751243781,201
+24Q520,Middle College High School at LaGuardia Community College,Queens,HS,3.59421768707483,147
+24Q530,International High School at LaGuardia Community College,Queens,HS,4.141513157894737,152
+24Q550,High School for Arts and Business,Queens,HS,4.028298969072165,194
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",Queens,EMS,4.1248,125
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",Queens,HS,3.5651685393258425,178
+24Q585,Maspeth High School,Queens,HS,4.193705882352941,170
+24Q600,Queens Technical High School,Queens,HS,2.7728645833333334,192
+24Q610,Aviation Career & Technical Education High School,Queens,HS,4.1893142857142855,175
+24Q744,VOYAGES Preparatory,Queens,HST,2.8197765363128493,179
+25Q020,P.S. 020 John Bowne,Queens,EMS,3.3919166666666665,120
+25Q021,P.S. 021 Edward Hart,Queens,EMS,3.3164912280701753,114
+25Q022,P.S. 022 Thomas Jefferson,Queens,EMS,4.111848739495798,119
+25Q024,P.S. 024 Andrew Jackson,Queens,EMS,4.124017857142857,112
+25Q025,I.S. 025 Adrien Block,Queens,EMS,3.718238993710692,159
+25Q032,P.S. 032 State Street,Queens,EMS,3.6113333333333335,105
+25Q079,P.S. 079 Francis Lewis,Queens,EMS,3.8523711340206184,97
+25Q107,P.S. 107 Thomas A Dooley,Queens,EMS,3.26125,120
+25Q120,P.S. 120 Queens,Queens,EMS,3.3345378151260503,119
+25Q129,P.S. 129 Patricia Larkin,Queens,EMS,3.291764705882353,119
+25Q130,P.S. 130,Queens,EMS,3.993333333333333,51
+25Q154,P.S. 154 Queens,Queens,EMS,3.4214150943396224,106
+25Q163,P.S. 163 Flushing Heights,Queens,EMS,3.9950877192982457,114
+25Q164,P.S. 164 Queens Valley,Queens,EMS,3.2194701986754968,151
+25Q165,P.S. 165 Edith K. Bergtraum,Queens,EMS,3.5021311475409838,122
+25Q169,P.S. 169 Bay Terrace,Queens,EMS,3.3850000000000002,92
+25Q184,P.S. 184 Flushing Manor,Queens,EMS,3.632,105
+25Q185,J.H.S. 185 Edward Bleeker,Queens,EMS,3.727025316455696,158
+25Q189,J.H.S. 189 Daniel Carter Beard,Queens,EMS,3.2272560975609754,164
+25Q193,P.S. 193 Alfred J. Kennedy,Queens,EMS,3.5343298969072166,97
+25Q200,P.S./M.S. 200 - The Magnet School of Global Studies and Leadership,Queens,EMS,3.3052095808383233,167
+25Q201,P.S. 201 The Discovery School for Inquiry and Research,Queens,EMS,3.088655462184874,119
+25Q209,P.S. 209 Clearview Gardens,Queens,EMS,3.3705555555555557,90
+25Q214,P.S. 214 Cadwallader Colden,Queens,EMS,3.269029126213592,103
+25Q219,P.S. 219 Paul Klapper,Queens,EMS,3.936763005780347,173
+25Q237,I.S. 237,Queens,EMS,3.4286875,160
+25Q240,Veritas Academy,Queens,HS,2.9525748502994014,167
+25Q241,Queens High School for Language Studies,Queens,HS,4.365032679738563,153
+25Q242,P.S. 242 Leonard P. Stavisky Early Childhood School,Queens,EC,3.3564285714285713,14
+25Q244,The Active Learning Elementary School,Queens,EC,4.008571428571429,14
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,Queens,EMS,2.7905714285714285,175
+25Q252,"Queens School of Inquiry, The",Queens,EMS,2.914888888888889,135
+25Q252,"Queens School of Inquiry, The",Queens,HS,3.8446341463414635,164
+25Q263,Flushing International High School,Queens,HS,3.2600613496932516,163
+25Q281,East-West School of International Studies,Queens,EMS,4.08237037037037,135
+25Q281,East-West School of International Studies,Queens,HS,4.080346820809249,173
+25Q285,World Journalism Preparatory: A College Board School,Queens,EMS,3.629922480620155,129
+25Q285,World Journalism Preparatory: A College Board School,Queens,HS,3.936845238095238,168
+27Q100,P.S. 100 Glen Morris,Queens,EMS,3.2655172413793103,116
+25Q294,BELL Academy,Queens,EMS,4.3026356589147285,129
+25Q425,John Bowne High School,Queens,HS,2.8401990049751245,201
+25Q460,Flushing High School,Queens,HS,2.590746268656716,201
+25Q467,Flushing Yabc,Queens,YABC,3.2845744680851063,94
+25Q499,"The Queens College School for Math, Science and Technology",Queens,EMS,3.812671755725191,131
+25Q525,Townsend Harris High School,Queens,HS,4.679938650306749,163
+25Q540,Queens Academy High School,Queens,HST,3.1037837837837836,185
+25Q670,Robert F. Kennedy Community High School,Queens,HS,3.282690355329949,197
+25Q792,North Queens Community High School,Queens,HST,3.0102439024390244,164
+26Q018,P.S. 018 Winchester,Queens,EMS,3.352842105263158,95
+26Q026,P.S. 026 Rufus King,Queens,EMS,3.4088983050847457,118
+26Q031,P.S. 031 Bayside,Queens,EMS,3.4304716981132075,106
+26Q041,P.S. 041 Crocheron,Queens,EMS,4.1741758241758244,91
+26Q046,P.S. 046 Alley Pond,Queens,EMS,3.8717592592592593,108
+26Q067,J.H.S. 067 Louis Pasteur,Queens,EMS,4.21046511627907,129
+26Q074,J.H.S. 074 Nathaniel Hawthorne,Queens,EMS,4.020344827586207,145
+26Q094,P.S. 094 David D. Porter,Queens,EMS,4.199139784946237,93
+26Q098,P.S. 098 The Douglaston School,Queens,EMS,3.8002777777777776,72
+26Q115,The James J. Ambrose School,Queens,EMS,3.4411494252873562,87
+26Q133,P.S. 133 The Bellerose School of Excellence,Queens,EMS,3.575,108
+26Q158,M.S. 158 Marie Curie,Queens,EMS,3.8707801418439716,141
+26Q159,P.S. 159,Queens,EMS,3.799622641509434,106
+26Q162,P.S. 162 John Golden,Queens,EMS,3.4487719298245616,114
+26Q172,Irwin Altman Middle School 172,Queens,EMS,3.758724832214765,149
+26Q173,P.S. 173 Fresh Meadows,Queens,EMS,3.6346017699115043,113
+26Q178,P.S./ IS 178 Holliswood,Queens,EMS,3.1521985815602838,141
+26Q186,P.S. 186 Castlewood,Queens,EMS,3.8603658536585366,82
+26Q188,P.S. 188 Kingsbury,Queens,EMS,4.1465853658536584,82
+26Q191,P.S. 191 Mayflower,Queens,EMS,3.5824175824175826,91
+26Q203,P.S. 203 Oakland Gardens,Queens,EMS,4.337391304347826,92
+26Q205,P.S. 205 Alexander Graham Bell,Queens,EMS,3.7958823529411765,85
+26Q213,P.S. 213 The Carl Ullman School,Queens,EMS,3.218369565217391,92
+26Q216,J.H.S. 216 George J. Ryan,Queens,EMS,4.2416883116883115,154
+26Q221,P.S. 221 The North Hills School,Queens,EMS,3.6006060606060606,99
+26Q315,Business Technology Early College High School,Queens,HS,3.7862411347517733,141
+26Q376,P.S. 376,Queens,EC,2.635,2
+26Q430,Francis Lewis High School,Queens,HS,3.434696132596685,181
+26Q435,Martin Van Buren High School,Queens,HS,2.78185,200
+26Q495,Bayside High School,Queens,HS,4.096553672316384,177
+26Q566,"Queens High School of Teaching, Liberal Arts and the Sciences",Queens,HS,3.239572192513369,187
+27Q042,P.S./M.S 042 R. Vernam,Queens,EMS,2.6163461538461537,156
+27Q045,P.S. 045 Clarence Witherspoon,Queens,EMS,2.404622641509434,106
+27Q047,P.S. 047 Chris Galas,Queens,EMS,3.659918699186992,123
+27Q051,P.S. 051,Queens,EC,2.4092857142857143,14
+27Q053,M.S. 053 Brian Piccolo,Queens,EMS,3.325287356321839,174
+27Q056,P.S. 056 Harry Eichler,Queens,EMS,2.906030534351145,131
+27Q060,P.S. 060 Woodhaven,Queens,EMS,3.7545454545454544,121
+27Q062,P. S. 62 - Chester Park School,Queens,EMS,2.8550847457627118,118
+27Q063,P.S. 063 Old South,Queens,EMS,3.2620149253731343,134
+27Q064,P.S. 064 Joseph P. Addabbo,Queens,EMS,2.63858407079646,113
+27Q065,P.S. 65 - The Raymond York Elementary School,Queens,EMS,3.1360714285714284,112
+27Q066,P.S. 066 Jacqueline Kennedy Onassis,Queens,EMS,4.1008547008547005,117
+27Q090,P.S. 090 Horace Mann,Queens,EMS,3.136106870229008,131
+27Q096,P.S. 096,Queens,EMS,3.5146875,96
+27Q097,P.S. 097 Forest Park,Queens,EMS,2.991594202898551,138
+27Q104,P.S. 104 The Bays Water,Queens,EMS,2.8985185185185185,135
+27Q105,P.S. 105 The Bay School,Queens,EMS,2.6082317073170733,164
+27Q106,Lighthouse Elementary School,Queens,EMS,2.4834375,96
+27Q108,P.S. 108 Captain Vincent G. Fowler,Queens,EMS,3.4615178571428573,112
+27Q114,P.S./M.S. 114 Belle Harbor,Queens,EMS,3.56172131147541,122
+27Q123,P.S. 123,Queens,EMS,3.142258064516129,124
+27Q124,P.S. 124 Osmond A Church,Queens,EMS,2.9915950920245398,163
+27Q137,M.S. 137 America's School of Heroes,Queens,EMS,3.470731707317073,164
+27Q146,P.S. 146 Howard Beach,Queens,EMS,3.276027397260274,146
+27Q155,P.S. 155,Queens,EMS,3.6327906976744186,86
+27Q197,P.S. 197 The Ocean School,Queens,EMS,3.412536231884058,138
+27Q202,J.H.S. 202 Robert H. Goddard,Queens,EMS,3.132469135802469,162
+27Q207,P.S. 207 Rockwood Park,Queens,EMS,3.156940298507463,134
+27Q223,P.S. 223 Lyndon B. Johnson,Queens,EMS,2.3603968253968253,126
+27Q226,J.H.S. 226 Virgil I. Grissom,Queens,EMS,2.5934682080924856,173
+27Q253,The Randolph Holder School for Social Justice,Queens,EMS,2.5495070422535213,142
+27Q254,P.S. 254 - The Rosa Parks School,Queens,EMS,3.0678703703703705,108
+27Q260,Frederick Douglass Academy VI High School,Queens,HS,2.3939086294416243,197
+27Q261,Voyages Prep - South Queens,Queens,HST,3.925084745762712,177
+27Q262,Channel View School for Research,Queens,EMS,2.975821917808219,146
+27Q262,Channel View School for Research,Queens,HS,3.7200520833333335,192
+27Q273,P.S. 273,Queens,EMS,3.074608695652174,115
+27Q282,Knowledge and Power Preparatory Academy VI,Queens,EMS,3.827283950617284,162
+27Q297,Hawtree Creek Middle School,Queens,EMS,3.3575925925925927,162
+27Q302,"Queens High School for Information, Research, and Technology",Queens,HS,3.7749,200
+27Q306,New York City Academy for Discovery,Queens,EMS,2.863533834586466,133
+27Q308,Robert H. Goddard High School of Communication Arts and Technology,Queens,HS,3.863081081081081,185
+27Q309,Academy of Medical Technology: A College Board School,Queens,EMS,2.80396449704142,169
+27Q309,Academy of Medical Technology: A College Board School,Queens,HS,2.6317766497461927,197
+27Q317,Waterside Children's Studio School,Queens,EMS,3.4335833333333334,120
+27Q318,Waterside School For Leadership,Queens,EMS,3.3665644171779143,163
+27Q319,Village Academy,Queens,EMS,3.743296089385475,179
+27Q323,Scholars' Academy,Queens,EMS,4.424358974358975,117
+27Q323,Scholars' Academy,Queens,HS,4.52320987654321,162
+27Q324,Rockaway Park High School for Environmental Sustainability,Queens,HS,2.4794300518134715,193
+28Q139,P.S. 139 Rego Park,Queens,EMS,3.228839285714286,112
+27Q334,Epic High School - North,Queens,HS,3.1590277777777778,144
+27Q351,Rockaway Collegiate High School,Queens,HS,2.2341884816753925,191
+27Q362,Wave Preparatory Elementary School,Queens,EMS,3.7260550458715596,109
+27Q377,P.S. 377,Queens,EC,1.76,2
+27Q400,August Martin High School,Queens,HS,3.2523469387755104,196
+27Q480,John Adams High School,Queens,HS,3.391990049751244,201
+27Q650,"High School for Construction Trades, Engineering and Architecture",Queens,HS,4.243895348837209,172
+28Q008,J.H.S. 008 Richard S. Grossley,Queens,EMS,2.9535632183908045,174
+28Q040,P.S. 040 Samuel Huntington,Queens,EMS,3.3699090909090907,110
+28Q048,David N. Dinkins School,Queens,EMS,3.542977099236641,131
+28Q050,P.S. 050 Talfourd Lawn Elementary School,Queens,EMS,3.115076923076923,130
+28Q054,P.S. 054 Hillside,Queens,EMS,2.781171875,128
+28Q055,P.S. 055 Maure,Queens,EMS,2.973960396039604,101
+28Q072,Catherine & Count Basie Middle School 72,Queens,EMS,2.649294117647059,170
+28Q080,PS 80  The Thurgood Marshall Magnet School of Multimedia and Communication,Queens,EMS,2.894380165289256,121
+28Q082,P.S. 082 Hammond,Queens,EMS,2.736268656716418,134
+28Q086,P.S. Q086,Queens,EMS,3.175725806451613,124
+28Q099,P.S. 099 Kew Gardens,Queens,EMS,3.56328125,128
+28Q101,P.S. 101 School in the Gardens,Queens,EMS,3.720740740740741,81
+28Q117,P.S. 117 J. Keld / Briarwood School,Queens,EMS,2.8427731092436974,119
+28Q121,P.S. 121 Queens,Queens,EMS,3.6935616438356162,73
+28Q140,P.S. 140 Edward K Ellington,Queens,EMS,3.393409090909091,88
+28Q144,P.S. 144 Col Jeromus Remsen,Queens,EMS,3.4045454545454548,88
+28Q157,J.H.S. 157 Stephen A. Halsey,Queens,EMS,3.8353896103896106,154
+28Q157,J.H.S. 157 Stephen A. Halsey,Queens,HS,3.2225925925925925,27
+28Q160,P.S. 160 Walter Francis Bishop,Queens,EMS,3.0021774193548385,124
+28Q161,P.S. 161 Arthur Ashe School,Queens,EMS,3.2711428571428574,105
+28Q167,Metropolitan Expeditionary Learning School,Queens,EMS,2.6032258064516127,155
+28Q167,Metropolitan Expeditionary Learning School,Queens,HS,3.8788372093023256,172
+28Q174,P.S. 174 William Sidney Mount,Queens,EMS,3.1345833333333335,96
+28Q175,P.S. 175 The Lynn Gross Discovery School,Queens,EMS,2.9402830188679245,106
+28Q182,P.S. 182 Samantha Smith,Queens,EMS,2.6084962406015038,133
+28Q190,J.H.S. 190 Russell Sage,Queens,EMS,3.2646,150
+28Q196,P.S. 196 Grand Central Parkway,Queens,EMS,4.407179487179487,78
+28Q206,P.S. 206 The Horace Harding School,Queens,EMS,2.6691818181818183,110
+28Q217,J.H.S. 217 Robert A. Van Wyck,Queens,EMS,3.3133526011560694,173
+28Q220,P.S. 220 Edward Mandel,Queens,EMS,2.4622608695652173,115
+28Q284,York Early College Academy,Queens,EMS,3.251450381679389,131
+28Q284,York Early College Academy,Queens,HS,4.273544303797468,158
+28Q287,The Emerson School,Queens,EMS,2.5260344827586207,174
+28Q303,The Academy for Excellence through the Arts,Queens,EC,3.3642857142857143,7
+28Q310,Queens Collegiate: A College Board School,Queens,EMS,3.3421250000000002,160
+28Q310,Queens Collegiate: A College Board School,Queens,HS,3.1595789473684213,190
+29Q109,Jean Nuzzi Intermediate School,Queens,EMS,2.9684242424242426,165
+28Q325,Hillside Arts & Letters Academy,Queens,HS,3.91751269035533,197
+28Q328,High School for Community Leadership,Queens,HS,4.365692307692308,195
+28Q332,Redwood Middle School,Queens,EMS,3.214074074074074,162
+28Q338,Queens Satellite High School for Opportunity,Queens,HST,2.549640287769784,139
+28Q349,The Queens School for Leadership and Excellence,Queens,EC,2.9316666666666666,6
+28Q350,Jamaica Gateway to the Sciences,Queens,HS,3.6153092783505154,194
+28Q354,The Jermaine L. Green STEM Institute of Queens,Queens,EMS,2.893684210526316,114
+28Q440,Forest Hills High School,Queens,HS,3.1972527472527474,182
+28Q505,Hillcrest High School,Queens,HS,3.1176381909547737,199
+28Q620,Thomas A. Edison Career and Technical Education High School,Queens,HS,3.6778857142857144,175
+28Q680,Queens Gateway to Health Sciences Secondary School,Queens,EMS,4.033174603174603,126
+28Q680,Queens Gateway to Health Sciences Secondary School,Queens,HS,4.100372670807453,161
+28Q686,Queens Metropolitan High School,Queens,HS,3.5659139784946237,186
+28Q687,Queens High School for the Sciences at York College,Queens,HS,4.726291390728477,151
+28Q690,High School for Law Enforcement and Public Safety,Queens,HS,2.7238144329896907,194
+28Q896,"Young Women's Leadership School, Queens",Queens,EMS,3.1133076923076923,130
+28Q896,"Young Women's Leadership School, Queens",Queens,HS,4.053463687150838,179
+29Q015,P.S. 015 Jackie Robinson,Queens,EMS,2.632909090909091,110
+29Q033,P.S. 033 Edward M. Funk,Queens,EMS,2.6461475409836064,122
+29Q035,P.S. 035 Nathaniel Woodhull,Queens,EMS,2.83625,128
+29Q036,P.S. 036 Saint Albans School,Queens,EMS,2.4008620689655173,116
+29Q037,Cynthia Jenkins School,Queens,EMS,2.291747572815534,103
+29Q038,P.S. 038 Rosedale,Queens,EMS,3.0836781609195403,87
+29Q052,P.S. 052 Queens,Queens,EMS,2.239349593495935,123
+29Q059,I.S. 059 Springfield Gardens,Queens,EMS,2.9380701754385963,171
+29Q095,P.S. 095 Eastwood,Queens,EMS,3.3605154639175256,97
+29Q116,P.S./I.S. 116 William C. Hughley,Queens,EMS,2.785909090909091,176
+29Q118,P.S. 118 Lorraine Hansberry,Queens,EMS,2.8810169491525426,118
+29Q131,P.S. 131 Abigail Adams,Queens,EMS,3.6344954128440365,109
+29Q132,P.S. 132 Ralph Bunche,Queens,EMS,3.218888888888889,99
+29Q134,P.S. 134 Hollis,Queens,EMS,2.652416666666667,120
+29Q135,The Bellaire School,Queens,EMS,2.60719696969697,132
+29Q136,P.S. 136 Roy Wilkins,Queens,EMS,2.795185185185185,108
+29Q138,P.S./M.S. 138 Sunrise,Queens,EMS,2.771717791411043,163
+29Q147,P.S./M.S. 147 Ronald McNair,Queens,EMS,2.238963414634146,164
+29Q156,P.S. 156 Laurelton,Queens,EMS,2.3464285714285715,84
+29Q176,P.S. 176 Cambria Heights,Queens,EMS,3.151022727272727,88
+29Q181,P.S. 181 Brookfield,Queens,EMS,3.4384375,96
+29Q192,I.S. 192 The Linden,Queens,EMS,2.824782608695652,161
+29Q195,P.S. 195 William Haberle,Queens,EMS,2.3933653846153846,104
+29Q208,P.S./I.S. 208,Queens,EMS,2.837207792207792,154
+29Q238,I.S. 238 - Susan B. Anthony Academy,Queens,EMS,2.721627906976744,172
+29Q243,Institute for Health Professions at Cambria Heights,Queens,HS,3.7446875,128
+29Q248,Queens Preparatory Academy,Queens,HS,2.94860103626943,193
+29Q251,P.S. 251 Queens,Queens,EMS,2.8044000000000002,75
+29Q259,Pathways College Preparatory School: A College Board School,Queens,EMS,3.1704666666666665,150
+29Q259,Pathways College Preparatory School: A College Board School,Queens,HS,3.1744444444444446,189
+29Q265,Excelsior Preparatory High School,Queens,HS,3.6559375,192
+29Q326,Cambria Heights Academy,Queens,HS,3.445025906735751,193
+29Q270,The Gordon Parks School,Queens,EMS,2.684527027027027,148
+29Q272,George Washington Carver High School for the Sciences,Queens,HS,2.8827604166666667,192
+29Q283,Preparatory Academy for Writers: A College Board School,Queens,EMS,3.477338129496403,139
+29Q283,Preparatory Academy for Writers: A College Board School,Queens,HS,3.160769230769231,182
+29Q289,Queens United Middle School,Queens,EMS,2.443973509933775,151
+29Q313,Benjamin Franklin High School for Finance & Information Technology,Queens,HS,3.345068493150685,146
+29Q327,Eagle Academy for Young Men III,Queens,EMS,2.9910191082802546,157
+29Q327,Eagle Academy for Young Men III,Queens,HS,3.1148447204968943,161
+29Q355,Collaborative Arts Middle School,Queens,EMS,2.5374233128834356,163
+29Q356,Community Voices Middle School,Queens,EMS,2.8809638554216868,166
+29Q360,P.S. 360,Queens,EC,3.5820000000000003,5
+29Q492,"Mathematics, Science Research and Technology Magnet High School",Queens,HS,2.7324607329842934,191
+30Q017,P.S. 017 Henry David Thoreau,Queens,EMS,3.151824817518248,137
+29Q498,"Health, Arts, Robotics, and Technology High School",Queens,HS,3.193917525773196,194
+30Q002,P.S. 002 Alfred Zimberg,Queens,EMS,3.4879310344827585,116
+30Q010,I.S. 010 Horace Greeley,Queens,EMS,3.6444886363636364,176
+30Q011,P.S. 011 Kathryn Phelan,Queens,EMS,3.318611111111111,144
+30Q069,P.S. 069 Jackson Heights,Queens,EMS,3.2005309734513276,113
+30Q070,P.S. 070,Queens,EMS,3.091904761904762,126
+30Q076,P.S. 076 William Hallet,Queens,EMS,3.103970588235294,136
+30Q084,P.S. 084 Steinway,Queens,EMS,3.1976842105263157,95
+30Q092,P.S. 092 Harry T. Stewart Sr.,Queens,EMS,3.1381884057971017,138
+30Q111,P.S. 111 Jacob Blackwell,Queens,EMS,2.4758857142857145,175
+30Q122,P.S. 122 Mamie Fay,Queens,EMS,3.8791603053435115,131
+30Q126,Albert Shanker School for Visual and Performing Arts,Queens,EMS,3.1750837988826817,179
+30Q127,P.S. 127 Aerospace Science Magnet School,Queens,EMS,3.0144692737430168,179
+30Q141,I.S. 141 The Steinway,Queens,EMS,3.66275641025641,156
+30Q145,I.S. 145 Joseph Pulitzer,Queens,EMS,3.608888888888889,180
+30Q148,P.S. 148 Queens,Queens,EMS,3.029485294117647,136
+30Q149,P.S. 149 Christa McAuliffe,Queens,EMS,2.9503846153846154,130
+30Q150,P.S. 150 Queens,Queens,EMS,3.531142857142857,105
+30Q151,P.S. 151 Mary D. Carter,Queens,EMS,3.199044117647059,136
+30Q152,P.S. 152 Gwendoline N. Alleyne School,Queens,EMS,3.61771186440678,118
+30Q166,P.S. 166 Henry Gradstein,Queens,EMS,3.296788990825688,109
+30Q171,P.S. 171 Peter G. Van Alst,Queens,EMS,2.644485294117647,136
+30Q204,I.S. 204 Oliver W. Holmes,Queens,EMS,3.3251366120218577,183
+30Q222,P.S. Q222 - Fire Fighter Christopher A. Santora School,Queens,EC,3.282857142857143,14
+30Q227,I.S. 227 Louis Armstrong,Queens,EMS,4.255099337748344,151
+30Q228,The Ivan Lafayette Early Childhood School of the Arts,Queens,EC,3.315,14
+30Q230,I.S. 230,Queens,EMS,3.739631901840491,163
+30Q258,Energy Tech High School,Queens,HS,3.9571428571428573,154
+30Q280,PS280Q: Home of the Lionhearts,Queens,EMS,3.3048062015503876,129
+30Q286,"Young Women's Leadership School, Astoria",Queens,EMS,3.842170542635659,129
+30Q286,"Young Women's Leadership School, Astoria",Queens,HS,4.1587654320987655,162
+30Q291,Hunters Point Community Middle School,Queens,EMS,3.850335570469799,149
+30Q300,The 30th Avenue School (G&T Citywide),Queens,EMS,4.4533000000000005,100
+30Q301,Academy for Careers in Television and Film,Queens,HS,4.416648044692738,179
+30Q329,East Elmhurst Community School,Queens,EMS,3.0933333333333333,72
+30Q361,The Woodside Community School,Queens,EC,4.1866666666666665,6
+30Q445,William Cullen Bryant High School,Queens,HS,2.72735,200
+30Q450,Long Island City High School,Queens,HS,2.472587064676617,201
+30Q501,Frank Sinatra School of the Arts High School,Queens,HS,4.15921686746988,166
+30Q502,Information Technology High School,Queens,HS,3.006919191919192,198
+30Q555,ATLAS,Queens,HS,2.9926315789473685,190
+30Q575,Academy of American Studies,Queens,HS,3.8980701754385967,171
+30Q580,Baccalaureate School for Global Education,Queens,EMS,4.751777777777778,90
+30Q580,Baccalaureate School for Global Education,Queens,HS,4.45559748427673,159
+75Q004,P.S. Q004,Queens,D75,3.782857142857143,21
+75Q023,P.S. Q023 @ Queens Children Center,Queens,D75,4.191428571428571,21
+75Q075,Robert E. Peary School,Queens,D75,3.71,21
+75Q177,P.S. Q177,Queens,D75,2.8138095238095238,21
+75Q224,P.S. Q224,Queens,D75,3.7928571428571427,21
+75Q721,John F. Kennedy Jr. School,Queens,D75,2.5476190476190474,21
+75Q752,Queens Transition Center,Queens,D75,2.6352380952380954,21
+75Q811,P.S. Q811,Queens,D75,3.067142857142857,21
+75X012,P.S. X012 Lewis and Clark School,Bronx,D75,2.9042857142857144,21
+75X017,P.S. X017,Bronx,D75,3.6352380952380954,21
+75X168,P.S. 168,Bronx,D75,3.6176190476190477,21
+75X176,P.S. X176,Bronx,D75,3.2814285714285716,21
+75X186,P186X Walter J. Damrosch School,Bronx,D75,3.600952380952381,21
+75X188,P.S. X188,Bronx,D75,3.315714285714286,21
+75X352,The Vida Bogart School for All Children,Bronx,D75,3.5557142857142856,21
+75X469,The Bronx School for Continuous Learners,Bronx,D75,3.8528571428571428,21
+75X721,P.S. X721 - Stephen McSweeney School,Bronx,D75,2.564761904761905,21
+75X723,P.S. 723,Bronx,D75,3.9285714285714284,21
+75X754,J. M. Rapport School Career Development,Bronx,D75,2.584285714285714,21
+84Q705,Renaissance Charter School,Queens,HS,3.5515822784810127,158
+84Q083,Central Queens Academy Charter School,Queens,EMS,4.073741007194244,139
+84Q170,Peninsula Preparatory Academy Charter School,Queens,EMS,3.3940425531914893,94
+84Q298,Middle Village Preparatory Charter School,Queens,EMS,3.8534188034188035,117
+84Q304,VOICE Charter School of New York,Queens,EMS,3.2061940298507463,134
+84Q320,United Charter High School for Advanced Math and Science lV,Queens,HS,3.1453271028037384,107
+84Q321,Growing Up Green Charter School,Queens,EMS,3.050125786163522,159
+84Q337,Success Academy Charter School - Rosedale,Queens,EMS,4.239607843137255,51
+84Q339,Success Academy Charter School - Springfield Gardens - New York 6,Queens,EMS,4.114528301886793,53
+84Q340,Challenge Preparatory Charter School,Queens,EMS,2.5839837398373984,123
+84Q341,Riverton Street Charter School,Queens,EMS,2.987142857142857,140
+84Q342,Rochdale Early Advantage Charter School,Queens,EMS,3.1647169811320754,106
+84Q359,Academy of the City Charter School,Queens,EMS,3.1467226890756304,119
+84Q373,United Charter High School for the Humanities lV,Queens,HS,3.0042253521126763,71
+84Q374,Success Academy Charter School - South Jamaica,Queens,EC,3.4699999999999998,2
+84Q375,Success Academy Charter School - Far Rockaway,Queens,EC,4.62,2
+84Q380,Forte Preparatory Academy Charter School,Queens,EMS,4.155121951219512,82
+84Q704,Merrick Academy - Queens Public Charter School,Queens,EMS,2.9616666666666664,114
+84Q705,Renaissance Charter School,Queens,EMS,3.273401360544218,147
+84Q706,Our World Neighborhood Charter School,Queens,EMS,3.0765,140
+84X124,Children's Aid College Preparatory Charter School,Bronx,EMS,3.4501941747572817,103
+84X133,Icahn Charter School 6,Bronx,EMS,3.6458064516129034,93
+84X165,Grand Concourse Academy Charter School,Bronx,EMS,3.339159663865546,119
+84X177,Mott Hall Charter School,Bronx,EMS,2.87722972972973,148
+84X185,Pharos Academy Charter School,Bronx,EMS,3.512919708029197,137
+84X185,Pharos Academy Charter School,Bronx,HS,3.376687898089172,157
+84X200,New Visions AIM Charter High School II,Bronx,HST,1.9674015748031497,127
+84X202,United Charter High School for Advanced Math and Science ll,Bronx,HS,4.155,178
+84X208,United Charter High School for the Humanities II,Bronx,HS,2.9678531073446326,177
+84X233,Family Life Academy Charter School II,Bronx,EMS,2.983660714285714,112
+84X255,Bronx Charter School for Excellence,Bronx,EMS,3.7337168141592922,113
+84X256,Heketi Community Charter School,Bronx,EMS,3.013818181818182,55
+84X309,South Bronx Charter School for International Cultures and the Arts,Bronx,EMS,3.4895,100
+84X345,Leaders In Our Neighborhood Charter School,Bronx,EMS,3.250473372781065,169
+84X345,Leaders In Our Neighborhood Charter School,Bronx,HS,3.2083243243243245,185
+84X346,South Bronx Classical Charter School,Bronx,EMS,4.243421052631579,114
+84X347,International Leadership Charter High School,Bronx,HS,3.334093567251462,171
+84X362,Icahn Charter School 7,Bronx,EMS,3.576883116883117,77
+84X364,South Bronx Classical Charter School II,Bronx,EMS,4.388591549295775,71
+84X378,Icahn Charter School 2,Bronx,EMS,3.9321739130434783,92
+84X380,Success Academy Charter School - Bronx 3,Bronx,EMS,4.147916666666667,72
+84X387,Brilla College Preparatory Charter School,Bronx,EMS,3.3724752475247524,101
+84X389,Bronx Global Learning Institute for Girls Charter School,Bronx,EMS,2.822416666666667,120
+84X393,University Prep Charter High School,Bronx,HS,4.2480769230769235,182
+84X394,Mott Haven Charter School,Bronx,EMS,3.2475539568345324,139
+84X395,"NYC Charter High School for Architecture, Engineering and Construction Industries",Bronx,HS,4.028148148148148,189
+84X398,Bronx Community Charter School,Bronx,EMS,2.9011920529801323,151
+84X407,Access Bronx Charter School,Bronx,EMS,2.91,123
+84X419,Bronx Academy of Promise Charter School,Bronx,EMS,3.3753030303030305,132
+84X422,Icahn Charter School 3,Bronx,EMS,4.155764705882353,85
+84X429,Charter High School for Law and Social Justice,Bronx,HS,2.363510638297872,94
+84X460,Atmosphere Academy Public Charter School,Bronx,EMS,3.644,130
+84X461,Nuasin Next Generation Charter School,Bronx,EMS,3.0436601307189544,153
+84X461,Nuasin Next Generation Charter School,Bronx,HS,2.480967741935484,62
+84X464,Success Academy Charter School - Bronx 4,Bronx,EMS,4.286666666666667,42
+84X465,Boys Preparatory Charter School of New York,Bronx,EMS,3.0812820512820513,78
+84X471,American Dream Charter School,Bronx,EMS,3.1855,140
+84X471,American Dream Charter School,Bronx,HS,3.734769230769231,65
+84X472,Family Life Academy Charter School III,Bronx,EMS,2.735333333333333,45
+84X482,Dr. Richard Izquierdo Health and Science Charter School,Bronx,EMS,2.7775,148
+84X482,Dr. Richard Izquierdo Health and Science Charter School,Bronx,HS,3.596418918918919,148
+84X484,Bronx Charter School for Better Learning II,Bronx,EC,3.202,5
+84X487,Girls Preparatory Charter School of the Bronx,Bronx,EMS,3.2518487394957982,119
+84X488,The Equality Charter School,Bronx,EMS,3.1951677852348994,149
+84X488,The Equality Charter School,Bronx,HS,3.0299290780141845,141
+84X491,Academic Leadership Charter School,Bronx,EMS,4.07718954248366,153
+84X492,South Bronx Early College Academy Charter School,Bronx,EMS,2.7696268656716416,134
+84X493,Success Academy Charter School - Bronx 1,Bronx,EMS,4.27974358974359,78
+84X494,Success Academy Charter School - Bronx 2,Bronx,EMS,4.216,100
+84X496,Icahn Charter School 4,Bronx,EMS,4.033544303797468,79
+84X538,Icahn Charter School 5,Bronx,EMS,3.6769230769230767,78
+84X539,United Charter High School for Advanced Math and Science,Bronx,HS,3.2392265193370164,181
+84X553,United Charter High School for the Humanities,Bronx,HS,3.472994350282486,177
+84X554,Choice Charter School,Bronx,EMS,2.7622033898305083,118
+84X579,Bronx Charter School for Excellence II,Bronx,EC,3.33,4
+84X581,South Bronx Community Charter High School,Bronx,HS,2.1205555555555557,72
+84X585,Legacy College Preparatory Charter School,Bronx,EMS,3.2298936170212764,94
+84X586,Brilla Veritas Charter School,Bronx,EC,3.1,1
+84X588,South Bronx Classical Charter School  IV,Bronx,EC,3.98,2
+84X589,Bronx Charter School for Excellence 3,Bronx,EC,4.529999999999999,2
+84X592,Amber Charter School II,Bronx,EC,3.9299999999999997,2
+84X703,Bronx Preparatory Charter School,Bronx,EMS,3.5123493975903615,166
+84X703,Bronx Preparatory Charter School,Bronx,HS,3.2651381215469613,181
+84X704,KIPP Academy Charter School,Bronx,EMS,3.607044025157233,159
+84X704,KIPP Academy Charter School,Bronx,HS,3.724296296296296,135
+84X705,Family Life Academy Charter School,Bronx,EMS,2.835371900826446,121
+84X706,Harriet Tubman Charter School,Bronx,EMS,3.5733070866141734,127
+84X717,Icahn Charter School 1,Bronx,EMS,3.468859649122807,114
+84X718,Bronx Charter School for Better Learning,Bronx,EMS,3.298804347826087,92
+84X730,Bronx Charter School for the Arts,Bronx,EMS,3.2337037037037035,135
+12X384,Entrada Academy,Bronx,EMS,2.606875,80
+07X547,New Explorers High School,Bronx,HS,1.921304347826087,92
+08X332,Holcombe L. Rucker School of Community Research,Bronx,HS,2.956043956043956,91
+08X392,Bronx Delta School,Bronx,EC,3.025,6
+08X519,Felisa Rincon de Gautier Institute for Law and Pub,Bronx,HS,1.933956043956044,91
+09X325,Urban Science Academy,Bronx,EMS,2.3035443037974686,79
+10X077,Bedford Park Elementary School,Bronx,EC,3.015,6
+12X092,P.S. 092 Bronx,Bronx,EMS,2.436060606060606,66
+12X321,Crotona Academy High School,Bronx,HST,2.7258441558441557,77
+12X372,Urban Assembly School for Wildlife Conservation,Bronx,EMS,2.6222222222222222,81
+12X372,Urban Assembly School for Wildlife Conservation,Bronx,HS,2.5203333333333333,90
+12X458,Samara Community School,Bronx,EC,2.606666666666667,6
+24Q007,P.S. 007 Louis F. Simeone,Queens,EC,3.7283333333333335,6
+24Q343,The Children's Lab School,Queens,EC,3.3466666666666667,6
+24Q877,The 51 Avenue Academy (The Path To Academic Excell,Queens,EMS,4.181785714285715,56
+27Q316,Queens Explorers Elementary School,Queens,EC,2.958333333333333,6
+28Q312,Jamaica Children's School,Queens,EC,3.461666666666667,6
+84Q372,Growing Up Green Charter School II,Queens,EC,3.32,1
+84X486,Rosalyn Yalow Charter School,Bronx,EC,3.92,4
+84X489,South Bronx Classical Charter School III,Bronx,EC,4.273333333333333,3
+84X497,Storefront Academy Charter School,Bronx,EC,2.6500000000000004,4
+07X162,J.H.S. 162 Lola Rodriguez De Tio,Bronx,EMS,2.3594444444444442,54
+08X305,Pablo Neruda Academy,Bronx,HS,2.9922222222222223,63
+08X335,The Academy of the Arts,Bronx,EMS,3.4484090909090908,44
+09X145,J.H.S. 145 Arturo Toscanini,Bronx,EMS,2.252075471698113,53
+09X276,Leadership Institute,Bronx,HS,2.353770491803279,61
+11X289,The Young Scholars Academy of The Bronx,Bronx,EMS,2.3818,50
+11X357,Young Voices Academy of the Bronx,Bronx,EC,2.9775,4
+12X692,Monroe Academy for Visual Arts & Design,Bronx,HS,2.1214285714285714,63
+24Q211,Elm Tree Elementary School,Queens,EC,2.8775,4
+25Q130,P.S. 130,Queens,EC,3.4975,4
+30Q329,East Elmhurst Community School,Queens,EC,3.545,4
+84Q337,Success Academy Charter School - Rosedale - New Yo,Queens,EC,3.88,2
+84Q339,Success Academy Charter School - Springfield Garde,Queens,EC,2.825,2
+84X258,Tech International Charter School,Bronx,EMS,2.8893478260869565,46
+84X464,Success Academy Charter School - Bronx 4 - New Yor,Bronx,EC,2.745,2
+84X465,Boys Preparatory Charter School of New York,Bronx,EC,3.0675,4
+84X472,Family Life Academy Charter School III,Bronx,EC,3.7675,4
+07X385,Performance School,Bronx,EMS,2.2983333333333333,18
+07X520,Foreign Language Academy of Global Studies,Bronx,HS,2.4710714285714284,28
+08X366,Urban Assembly Academy of Civic Engagement,Bronx,EMS,2.5204166666666667,24
+09X064,P.S. 064 Pura Belpre,Bronx,EMS,2.9325,20
+09X230,P.S. 230 Dr Roland N. Patterson,Bronx,EMS,2.5305,20
+09X414,Jonathan Levin High School for Media and Communica,Bronx,HS,1.9747826086956521,23
+11X272,Globe School for Environmental Research,Bronx,EMS,3.293846153846154,26
+11X567,Linden Tree Elementary School,Bronx,EC,3.15,2
+12X050,P.S. 050 Clara Barton,Bronx,EMS,2.836,20
+12X278,Peace and Diversity Academy,Bronx,HS,1.8451851851851853,27
+24Q110,P.S. 110,Queens,EC,3.17,2
+29Q494,"Law, Government and Community Service High School",Queens,HS,2.7505555555555556,18
+29Q496,"Business, Computer Applications & Entrepreneurship",Queens,HS,2.5557894736842104,19
+84X364,South Bronx Classical Charter School II,Bronx,EC,3.945,2
+84X380,Success Academy Charter School - Bronx 3,Bronx,EC,2.45,1
+84X387,Brilla College Prep Charter School,Bronx,EC,3.46,2
+07X625,Bronx Legacy High School,Bronx,HS,2.574468085106383,47
+08X392,Bronx Delta School,Bronx,EMS,2.8634883720930233,43
+08X636,Virtual Innovators Academy,Bronx,HS,2.69375,24
+08X583,P.S. 583,Bronx,EMS,2.91375,40
+09X088,P.S. X088 - S. Silverstein Little Sparrow School,Bronx,EMS,3.13,14
+09X594,New Pathways Academy,Bronx,EMS,3.4763513513513513,74
+09X593,South Bronx International Middle School,Bronx,EMS,3.7435384615384617,65
+10X077,Bedford Park Elementary School,Bronx,EMS,2.1946296296296297,54
+10X207,P.S. 207,Bronx,EMS,2.888541666666667,48
+10X228,Jonas Bronck Academy,Bronx,HS,4.064666666666667,15
+11X483,The Matilda Avenue School,Bronx,EMS,2.3125581395348838,43
+11X481,The STEAM Bridge School,Bronx,EMS,3.450625,32
+12X458,Samara Community School,Bronx,EMS,3.3446511627906976,43
+12X595,P.S. 595,Bronx,EMS,2.7981818181818183,44
+12X641,Bard High School Early College Bronx,Bronx,HS,4.58625,24
+24Q343,The Children's Lab School,Queens,EMS,3.5176923076923075,52
+24Q007,P.S. 007 Louis F. Simeone,Queens,EMS,3.6666666666666665,48
+24Q419,MS 419,Queens,EMS,2.891714285714286,70
+25Q379,College Point Collaborative,Queens,EMS,2.5214666666666665,75
+26Q376,P.S. 376,Queens,EMS,4.151219512195122,41
+27Q316,Queens Explorers Elementary School,Queens,EMS,3.3730232558139535,43
+27Q377,S.T.A.R. Leadership Academy,Queens,EMS,2.7243478260869565,46
+28Q303,The Academy for Excellence through the Arts,Queens,EMS,4.391481481481481,27
+28Q312,Jamaica Children's School,Queens,EMS,2.6903030303030304,33
+28Q349,The Queens School for Leadership and Excellence,Queens,EMS,2.5510714285714284,56
+29Q360,P.S. 360,Queens,EMS,3.5839285714285714,28
+30Q361,The Woodside Community School,Queens,EMS,3.332558139534884,43
+30Q398,The Hector Figueroa School,Queens,EMS,4.251,20
+30Q384,Hunters Point Elementary School,Queens,EMS,4.045806451612903,31
+30Q429,I.S 429,Queens,EMS,3.9324242424242426,33
+30Q417,Gotham Tech High School,Queens,HS,3.008709677419355,31
+75X596,P.S. X596,Bronx,D75,4.31,3
+84Q340,Challenge Preparatory Charter School,Queens,HS,2.6175,32
+84Q372,Growing Up Green Charter School II,Queens,EMS,2.8352857142857144,70
+84Q375,Success Academy Charter School - Far Rockaway,Queens,EMS,4.242142857142857,42
+84Q374,Success Academy Charter School - South Jamaica,Queens,EMS,4.144074074074074,27
+84Q387,Valence College Preparatory Charter School,Queens,EMS,4.234242424242424,66
+84Q388,New Dawn Charter High School II,Queens,HST,2.231969696969697,66
+84Q386,Our World Neighborhood Charter School 2,Queens,EMS,2.5186363636363636,44
+84Q414,Renaissance Charter School 2,Queens,EMS,2.9985714285714287,35
+84Q380,Forte Preparatory Academy Charter School,Queens,HS,3.6715384615384616,13
+84Q385,Elm Community Charter School,Queens,EMS,3.6111627906976747,43
+84Q414,Renaissance Charter School 2,Queens,HS,2.844,10
+84X309,South Bronx Charter School for International Cultures and the Arts,Bronx,HS,3.2875,16
+84X347,International Leadership Charter High School,Bronx,EMS,3.7277272727272726,22
+84X387,Brilla College Preparatory Charter School,Bronx,HS,3.484,15
+84X380,Success Academy Charter School - Bronx 3,Bronx,HS,2.505,10
+84X460,Atmosphere Academy Public Charter School,Bronx,HS,3.4796,25
+84X486,Rosalyn Yalow Charter School,Bronx,EMS,3.551304347826087,46
+84X484,Bronx Charter School for Better Learning II,Bronx,EMS,2.60425,40
+84X465,Boys Preparatory Charter School of New York,Bronx,HS,3.653636363636364,11
+84X489,South Bronx Classical Charter School III,Bronx,EMS,4.2056000000000004,50
+84X497,Storefront Academy Charter School,Bronx,EMS,3.824222222222222,45
+84X487,Girls Preparatory Charter School of the Bronx,Bronx,HS,3.087142857142857,7
+84X579,Bronx Charter School for Excellence 2,Bronx,EMS,4.325918367346939,49
+84X597,Urban Assembly Charter School for Computer Science,Bronx,HS,3.727936507936508,63
+84X592,Amber Charter School Kingsbridge,Bronx,EMS,2.715,64
+84X606,Emblaze Academy Charter School,Bronx,EMS,3.4638709677419355,62
+84X599,Cardinal McCloskey Community Charter School,Bronx,EMS,2.910833333333333,48
+84X585,Legacy College Preparatory Charter School,Bronx,HS,2.416842105263158,38
+84X589,Bronx Charter School for Excellence 3,Bronx,EMS,3.7630232558139536,43
+84X598,KIPP Freedom Charter School,Bronx,EMS,3.148909090909091,55
+84X586,Brilla Veritas Charter School,Bronx,EMS,3.226734693877551,49
+84X588,South Bronx Classical Charter School IV,Bronx,EMS,4.383863636363636,44
+84X587,NYC Autism Charter School Bronx,Bronx,D75,1.8920000000000001,5
+84X612,Creo College Preparatory Charter School,Bronx,EMS,3.831935483870968,62
+84X614,Dream Charter School Mott Haven,Bronx,EMS,3.7375757575757578,66
+84X616,KIPP Bronx Charter School II,Bronx,EMS,3.2587272727272727,55
+84X613,Bold Charter School,Bronx,EMS,4.24,41
+84X610,Urban Dove Team Charter School II,Bronx,HST,2.846290322580645,62
+84X615,University Prep Charter Middle School,Bronx,EMS,3.0464285714285713,56
+84X608,Bronx Charter School for Excellence 4,Bronx,EMS,4.075714285714286,35
+84X609,Zeta Charter Schools - South Bronx,Bronx,EMS,4.371860465116279,43
+84X617,KIPP Bronx Charter School III,Bronx,EMS,3.236666666666667,54
+84X611,AECI II: NYC Charter High School for Computer Engineering and Innovation,Bronx,HS,3.45375,48
+84X619,Bronx Arts and Science Charter School,Bronx,EMS,2.505813953488372,43
+84X627,Capital Preparatory Bronx Charter School,Bronx,EMS,3.6158333333333332,60
+84X623,Neighborhood Charter School: Bronx,Bronx,EMS,4.1414285714285715,42
+84X617,KIPP Bronx Charter School III,Bronx,HS,3.9904,25
+84X635,Earl Monroe New Renaissance Basketball Charter School,Bronx,HS,2.733846153846154,26
+84X627,Capital Preparatory Bronx Charter School,Bronx,HS,3.6715,20
+84X620,Bronx Charter School for Excellence 5,Bronx,EMS,4.2211428571428575,35
+84X633,Wildflower New York Charter School,Bronx,EMS,4.99,2
+84X638,Success Academy Charter School - Bronx 5 Upper,Bronx,EMS,4.99,10
+84X640,Family Life Academy Charter Schools High School,Bronx,HS,3.4358823529411766,17
+07X642,South Bronx Literacy Academy,Bronx,EMS,2.0771428571428574,7
+09X644,Bronx Debate Academy,Bronx,EMS,1.7810526315789474,19
+30Q367,Motion Picture Technical High School,Queens,HS,3.3833333333333333,6
+84Q422,Success Academy Charter School - NYC 14,Queens,EMS,4.641,10
+84Q428,Urban Dove Team Charter School III,Queens,HST,1.841904761904762,21
+84X429,Charter High School for Law and Social Justice,Bronx,EMS,3.8457142857142856,7
+84X614,Dream Charter School Mott Haven,Bronx,HS,3.898421052631579,19
+84X628,Brilla Caritas Charter School,Bronx,EMS,3.2284615384615383,13
+84X629,Brilla Pax Charter School,Bronx,EMS,3.1761538461538463,13
+84X630,Girls Preparatory Charter School of the Bronx II,Bronx,EMS,2.5953333333333335,15
+84X631,Zeta Charter School - Mount Eden,Bronx,EMS,4.4750000000000005,10
+84X632,Zeta Charter School - Tremont Park,Bronx,EMS,4.674,10
+84X639,Dream Charter School Highbridge,Bronx,EMS,4.03,13
+84X647,Success Academy Charter School - NYC 12,Bronx,EMS,4.99,8
+84X648,Girls Preparatory Charter School of New York,Bronx,EMS,4.99,1
+84X648,Girls Preparatory Charter School of New York,Bronx,HS,3.4266666666666667,6
+84X649,Democracy Preparatory Endurance Charter School,Bronx,EMS,2.708235294117647,17
+84X649,Democracy Preparatory Endurance Charter School,Bronx,HS,2.5465,20
