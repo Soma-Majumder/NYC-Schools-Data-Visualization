@@ -18,8 +18,8 @@
       .bar { height: 100%; min-width: 2px; border-radius: 6px; background: linear-gradient(90deg, #247ba0, #3198be); }
       .value { font-weight: 750; font-variant-numeric: tabular-nums; }
       footer { border-top: 1px solid #d9e0ea; color: #526075; font-size: .86rem; line-height: 1.55; margin-top: 36px; padding-top: 20px; }
-      .freshness { display: flex; align-items: center; justify-content: flex-end; gap: 8px; color: #a83131; font-size: .8rem; font-weight: 650; margin-top: 18px; text-align: right; }
-      .freshness::before { content: ""; width: 8px; height: 8px; flex: 0 0 8px; border-radius: 50%; background: #d64545; box-shadow: 0 0 0 4px #d645451f; }
+      .freshness { display: flex; align-items: center; justify-content: flex-end; gap: 8px; color: #2f8f4f; font-size: .8rem; font-weight: 650; margin-top: 18px; text-align: right; }
+      .freshness::before { content: ""; width: 8px; height: 8px; flex: 0 0 8px; border-radius: 50%; background: #2f8f4f; box-shadow: 0 0 0 4px #2f8f4f1f; }
       .story-section { margin-top: 40px; padding-top: 30px; border-top: 1px solid #d9e0ea; }
       .story-section h2 { font-size: 1.35rem; margin: 0 0 10px; }
       .story-section p { color: #526075; line-height: 1.6; }
@@ -61,7 +61,7 @@
       <footer>
         <div id="method"></div>
         <div>Source: NYC Open Data, School Report Card dataset. These are descriptive averages, not causal estimates of borough effects.</div>
-        <div class="freshness" aria-label="Data freshness">Latest data snapshot: August 6, 2026 at 2:23 PM EDT</div>
+        <div class="freshness" id="freshness" aria-label="Data freshness">Refreshing latest data…</div>
       </footer>
     </main>
     <script>
@@ -74,6 +74,7 @@
       }
 
       async function renderCharts() {
+        const freshnessEl = document.querySelector("#freshness");
         const chart = document.querySelector("#chart");
         chart.innerHTML = "";
 
@@ -95,6 +96,11 @@
         document.querySelector("#method").textContent = `${boroughScores.reduce((total, item) => total + item.metricRows, 0).toLocaleString()} reported metric rows were averaged by borough in the latest data snapshot.`;
 
         const data = await loadLiveData();
+        const now = new Date();
+        const timestamp = now.toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" });
+        if (freshnessEl) {
+          freshnessEl.textContent = `Live data refreshed: ${timestamp}`;
+        }
         const rowsBySchool = new Map();
 
         data.forEach((row) => {
