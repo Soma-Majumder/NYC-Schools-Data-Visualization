@@ -20,6 +20,20 @@
       footer { border-top: 1px solid #d9e0ea; color: #526075; font-size: .86rem; line-height: 1.55; margin-top: 36px; padding-top: 20px; }
       .freshness { display: flex; align-items: center; justify-content: flex-end; gap: 8px; color: #a83131; font-size: .8rem; font-weight: 650; margin-top: 18px; text-align: right; }
       .freshness::before { content: ""; width: 8px; height: 8px; flex: 0 0 8px; border-radius: 50%; background: #d64545; box-shadow: 0 0 0 4px #d645451f; }
+      .story-section { margin-top: 40px; padding-top: 30px; border-top: 1px solid #d9e0ea; }
+      .story-section h2 { font-size: 1.35rem; margin: 0 0 10px; }
+      .story-section p { color: #526075; line-height: 1.6; }
+      .scatter-card { border: 1px solid #e4ebf4; border-radius: 14px; padding: 16px; background: linear-gradient(180deg, #fbfdff 0%, #f7faff 100%); }
+      .legend { display: flex; flex-wrap: wrap; gap: 10px 16px; margin-bottom: 12px; font-size: 0.9rem; color: #526075; }
+      .legend-item { display: inline-flex; align-items: center; gap: 6px; }
+      .legend-swatch { width: 10px; height: 10px; border-radius: 50%; }
+      .scatter-svg { width: 100%; height: auto; display: block; }
+      .scatter-axis-label { fill: #516074; font-size: 12px; }
+      .scatter-grid { stroke: #dfe7f0; stroke-width: 1; }
+      .scatter-axis { stroke: #9aa8ba; stroke-width: 1.2; }
+      .scatter-line { stroke: #8f95a3; stroke-width: 1.6; stroke-dasharray: 5 4; }
+      .scatter-point { stroke: #fff; stroke-width: 1.4; }
+      .scatter-note { margin-top: 10px; font-size: 0.92rem; color: #5d6b7d; }
       @media (max-width: 560px) { body { padding: 0; } main { border-radius: 0; min-height: 100vh; } .scale { margin-left: 0; } .row { grid-template-columns: 1fr 46px; gap: 8px; } .label { grid-column: 1 / -1; text-align: left; } }
     </style>
   </head>
@@ -29,6 +43,21 @@
       <p class="subtitle">Average reported metric score across all schools, grouped by borough (1–5 scale)</p>
       <div class="scale" aria-hidden="true"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div>
       <div class="chart" id="chart" aria-label="Average school quality scores by NYC borough"></div>
+
+      <section class="story-section" aria-labelledby="attendance-story-title">
+        <h2 id="attendance-story-title">Remote learning hurt some school types far more than others</h2>
+        <p>Each dot is a school. The x-axis shows in-person attendance and the y-axis shows remote attendance. Points below the diagonal line mean remote attendance fell more sharply than in-person attendance, which is where the remote-learning gap appears most clearly.</p>
+        <div class="scatter-card">
+          <div class="legend" aria-label="School type legend">
+            <span class="legend-item"><span class="legend-swatch" style="background:#3f7fbf"></span>Elementary</span>
+            <span class="legend-item"><span class="legend-swatch" style="background:#e68a00"></span>K-8</span>
+            <span class="legend-item"><span class="legend-swatch" style="background:#7c4dff"></span>Middle</span>
+          </div>
+          <svg class="scatter-svg" id="attendanceScatter" viewBox="0 0 720 440" role="img" aria-label="Scatter plot comparing in-person and remote attendance by school type"></svg>
+          <p class="scatter-note">The diagonal line marks the “equity line”: schools far below it had a much weaker remote-learning experience than their in-person attendance would suggest.</p>
+        </div>
+      </section>
+
       <footer>
         <div id="method"></div>
         <div>Source: NYC Open Data, School Report Card dataset. These are descriptive averages, not causal estimates of borough effects.</div>
@@ -36,24 +65,129 @@
       </footer>
     </main>
     <script>
-      // Snapshot generated from the authenticated live NYC Open Data query.
-      // The API token from .env is intentionally not included in this public file.
-      const boroughScores = [
-        { borough: "Manhattan", score: 3.30, metricRows: 52831 },
-        { borough: "Queens", score: 3.30, metricRows: 52560 },
-        { borough: "Staten Island", score: 3.22, metricRows: 10483 },
-        { borough: "Brooklyn", score: 3.18, metricRows: 82077 },
-        { borough: "Bronx", score: 3.08, metricRows: 70613 }
-      ].sort((a, b) => b.score - a.score || a.borough.localeCompare(b.borough));
+      async function loadLiveData() {
+        const response = await fetch("https://data.cityofnewyork.us/resource/dnpx-dfnc.json?$select=dbn,school_name,school_type,metric_variable_name,metric_value&$where=metric_variable_name in ('attendance_inperson_k8_all','attendance_remote_k8_all')&$limit=200");
+        if (!response.ok) {
+          throw new Error(`Failed to load NYC Open Data: ${response.status}`);
+        }
+        return response.json();
+      }
 
-      const chart = document.querySelector("#chart");
-      boroughScores.forEach(({ borough, score }) => {
-        const row = document.createElement("div");
-        row.className = "row";
-        row.innerHTML = `<div class="label">${borough}</div><div class="track"><div class="bar" style="width:${score / 5 * 100}%"></div></div><div class="value">${score.toFixed(2)}</div>`;
-        chart.append(row);
+      async function renderCharts() {
+        const chart = document.querySelector("#chart");
+        chart.innerHTML = "";
+
+        const boroughScores = [
+          { borough: "Manhattan", score: 3.30, metricRows: 52831 },
+          { borough: "Queens", score: 3.30, metricRows: 52560 },
+          { borough: "Staten Island", score: 3.22, metricRows: 10483 },
+          { borough: "Brooklyn", score: 3.18, metricRows: 82077 },
+          { borough: "Bronx", score: 3.08, metricRows: 70613 }
+        ].sort((a, b) => b.score - a.score || a.borough.localeCompare(b.borough));
+
+        boroughScores.forEach(({ borough, score }) => {
+          const row = document.createElement("div");
+          row.className = "row";
+          row.innerHTML = `<div class="label">${borough}</div><div class="track"><div class="bar" style="width:${score / 5 * 100}%"></div></div><div class="value">${score.toFixed(2)}</div>`;
+          chart.append(row);
+        });
+
+        document.querySelector("#method").textContent = `${boroughScores.reduce((total, item) => total + item.metricRows, 0).toLocaleString()} reported metric rows were averaged by borough in the latest data snapshot.`;
+
+        const data = await loadLiveData();
+        const rowsBySchool = new Map();
+
+        data.forEach((row) => {
+          const dbn = row.dbn;
+          const schoolName = row.school_name || "Unknown school";
+          const schoolType = row.school_type || "Unknown";
+          const metricName = row.metric_variable_name;
+          const metricValue = Number(row.metric_value);
+
+          if (!rowsBySchool.has(dbn)) {
+            rowsBySchool.set(dbn, { school: schoolName, schoolType, inPerson: null, remote: null });
+          }
+
+          const schoolRow = rowsBySchool.get(dbn);
+          if (metricName === "attendance_inperson_k8_all") {
+            schoolRow.inPerson = metricValue;
+          }
+          if (metricName === "attendance_remote_k8_all") {
+            schoolRow.remote = metricValue;
+          }
+        });
+
+        const attendancePoints = Array.from(rowsBySchool.values()).filter((item) => item.inPerson !== null && item.remote !== null);
+        const svg = document.querySelector("#attendanceScatter");
+        svg.innerHTML = "";
+
+        const width = 720;
+        const height = 440;
+        const padding = { top: 25, right: 25, bottom: 48, left: 58 };
+        const plotWidth = width - padding.left - padding.right;
+        const plotHeight = height - padding.top - padding.bottom;
+        const domainMin = 0.72;
+        const domainMax = 1.0;
+        const xScale = (value) => padding.left + ((value - domainMin) / (domainMax - domainMin)) * plotWidth;
+        const yScale = (value) => padding.top + plotHeight - ((value - domainMin) / (domainMax - domainMin)) * plotHeight;
+        const colorByType = { Elementary: "#3f7fbf", "K-8": "#e68a00", Middle: "#7c4dff" };
+
+        const formatPercent = (value) => `${(value * 100).toFixed(0)}%`;
+
+        const createSvgElement = (name, attrs) => {
+          const el = document.createElementNS("http://www.w3.org/2000/svg", name);
+          Object.entries(attrs).forEach(([key, value]) => el.setAttribute(key, value));
+          return el;
+        };
+
+        const addText = (x, y, text, className, anchor = "middle") => {
+          const textEl = createSvgElement("text", { x, y, class: className, "text-anchor": anchor });
+          textEl.textContent = text;
+          svg.appendChild(textEl);
+        };
+
+        const tickValues = [0.72, 0.80, 0.88, 0.96, 1.0];
+        tickValues.forEach((tick) => {
+          const x = xScale(tick);
+          const y = yScale(tick);
+          svg.appendChild(createSvgElement("line", { x1: x, y1: padding.top, x2: x, y2: height - padding.bottom, class: "scatter-grid" }));
+          svg.appendChild(createSvgElement("line", { x1: padding.left, y1: y, x2: width - padding.right, y2: y, class: "scatter-grid" }));
+          addText(x, height - 18, formatPercent(tick), "scatter-axis-label");
+          addText(18, y + 4, formatPercent(tick), "scatter-axis-label", "start");
+        });
+
+        svg.appendChild(createSvgElement("line", { x1: xScale(domainMin), y1: yScale(domainMin), x2: xScale(domainMax), y2: yScale(domainMax), class: "scatter-line" }));
+        addText(width - 32, padding.top + 14, "equity line", "scatter-axis-label", "end");
+        addText(width - padding.right - 10, height - 28, "In-person attendance", "scatter-axis-label", "end");
+        addText(24, padding.top + 8, "Remote attendance", "scatter-axis-label", "start");
+
+        svg.appendChild(createSvgElement("line", { x1: padding.left, y1: height - padding.bottom, x2: width - padding.right, y2: height - padding.bottom, class: "scatter-axis" }));
+        svg.appendChild(createSvgElement("line", { x1: padding.left, y1: padding.top, x2: padding.left, y2: height - padding.bottom, class: "scatter-axis" }));
+
+        attendancePoints.forEach((point) => {
+          const cx = xScale(point.inPerson);
+          const cy = yScale(point.remote);
+          const circle = createSvgElement("circle", {
+            cx,
+            cy,
+            r: 5.2,
+            fill: colorByType[point.schoolType] || "#5a6b7d",
+            class: "scatter-point"
+          });
+          circle.setAttribute("tabindex", "0");
+          circle.setAttribute("role", "img");
+          circle.setAttribute("aria-label", `${point.school}: in-person ${formatPercent(point.inPerson)}, remote ${formatPercent(point.remote)}`);
+          circle.setAttribute("title", `${point.school}\n${point.schoolType}\nIn-person: ${formatPercent(point.inPerson)}\nRemote: ${formatPercent(point.remote)}`);
+          svg.appendChild(circle);
+        });
+      }
+
+      renderCharts().catch((error) => {
+        const svg = document.querySelector("#attendanceScatter");
+        if (svg) {
+          svg.innerHTML = `<text x="20" y="24" class="scatter-axis-label">Unable to load live attendance data: ${error.message}</text>`;
+        }
       });
-      document.querySelector("#method").textContent = `${boroughScores.reduce((total, item) => total + item.metricRows, 0).toLocaleString()} reported metric rows were averaged by borough in the latest data snapshot.`;
     </script>
   </body>
 </html>
