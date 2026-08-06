@@ -44,20 +44,6 @@
       <div class="scale" aria-hidden="true"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div>
       <div class="chart" id="chart" aria-label="Average school quality scores by NYC borough"></div>
 
-      <section class="story-section" aria-labelledby="attendance-story-title">
-        <h2 id="attendance-story-title">Remote learning hurt some school types far more than others</h2>
-        <p>Each dot is a school. The x-axis shows in-person attendance and the y-axis shows remote attendance. Points below the diagonal line mean remote attendance fell more sharply than in-person attendance, which is where the remote-learning gap appears most clearly.</p>
-        <div class="scatter-card">
-          <div class="legend" aria-label="School type legend">
-            <span class="legend-item"><span class="legend-swatch" style="background:#3f7fbf"></span>Elementary</span>
-            <span class="legend-item"><span class="legend-swatch" style="background:#e68a00"></span>K-8</span>
-            <span class="legend-item"><span class="legend-swatch" style="background:#7c4dff"></span>Middle</span>
-          </div>
-          <svg class="scatter-svg" id="attendanceScatter" viewBox="0 0 720 440" role="img" aria-label="Scatter plot comparing in-person and remote attendance by school type"></svg>
-          <p class="scatter-note">The diagonal line marks the “equity line”: schools far below it had a much weaker remote-learning experience than their in-person attendance would suggest.</p>
-        </div>
-      </section>
-
       <footer>
         <div id="method"></div>
         <div>Source: NYC Open Data, School Report Card dataset. These are descriptive averages, not causal estimates of borough effects.</div>
@@ -66,7 +52,12 @@
     </main>
     <script>
       async function loadLiveData() {
-        const response = await fetch("https://data.cityofnewyork.us/resource/dnpx-dfnc.json?$select=dbn,school_name,school_type,metric_variable_name,metric_value&$where=metric_variable_name in ('attendance_inperson_k8_all','attendance_remote_k8_all')&$limit=200");
+        const params = new URLSearchParams({
+          "$select": "dbn,school_name,school_type,metric_variable_name,metric_value",
+          "$where": "metric_variable_name in ('attendance_inperson_k8_all','attendance_remote_k8_all')",
+          "$limit": "200"
+        });
+        const response = await fetch(`https://data.cityofnewyork.us/resource/dnpx-dfnc.json?${params.toString()}`);
         if (!response.ok) {
           throw new Error(`Failed to load NYC Open Data: ${response.status}`);
         }
@@ -123,8 +114,16 @@
           }
         });
 
-        const attendancePoints = Array.from(rowsBySchool.values()).filter((item) => item.inPerson !== null && item.remote !== null);
         const svg = document.querySelector("#attendanceScatter");
+        if (!svg) {
+          return;
+        }
+
+        const attendancePoints = Array.from(rowsBySchool.values()).filter((item) => item.inPerson !== null && item.remote !== null);
+        if (attendancePoints.length === 0) {
+          svg.innerHTML = '<text x="20" y="24" class="scatter-axis-label">No attendance points were returned for the current query.</text>';
+          return;
+        }
         svg.innerHTML = "";
 
         const width = 720;
